@@ -1,0 +1,1099 @@
+PS0 Germline ( present in every cell of the body ) mutations in RET-13 cause multiple endocrine neoplasia-17 type 2 , an inherited cancer-23 syndrome characterized by medullary thyroid carcinoma-29 , pheochromocytoma-31 , and hyperparathyroidism-34 .
+5
+[PHENOTYPE-thyroid carcinoma-29]	[GENOTYPE-RET-13]
+[PHENOTYPE-neoplasia-17]	[GENOTYPE-RET-13]
+[PHENOTYPE-pheochromocytoma-31]	[GENOTYPE-RET-13]
+[PHENOTYPE-cancer-23]	[GENOTYPE-RET-13]
+[PHENOTYPE-hyperparathyroidism-34]	[GENOTYPE-RET-13]
+PS15 The frequency of pes cavus , scoliosis-7 , axonal sensory neuropathy-11 and areflexia-13 increased with the size of GAA1-19 , whereas some signs such as sphincter disturbances-27 , cerebellar atrophy on MRI , amyotrophy-34 , dysarthria-36 and decreased vibration sense were associated with increased duration of the disease .
+3
+[PHENOTYPE-neuropathy-11]	[GENOTYPE-GAA1-19]
+[PHENOTYPE-areflexia-13]	[GENOTYPE-GAA1-19]
+[PHENOTYPE-scoliosis-7]	[GENOTYPE-GAA1-19]
+PS42 Taken together , these data suggest that early onset neuropathy-10 is caused by Myelin protein zero mutations that significantly disrupt the tertiary structure of Myelin protein zero-27 and thus interfere with Myelin protein-33 zero - mediated adhesion and myelin compaction .
+1
+[PHENOTYPE-neuropathy-10]	[GENOTYPE-Myelin protein zero mutations]
+PS95 We recently described a homozygous frameshift mutation in the human leptin ( ob ) gene associated with undetectable serum leptin-20 and extreme obesity-23 in two individuals .
+2
+[PHENOTYPE-undetectable serum leptin-20]	[GENOTYPE-frameshift mutation in the human leptin ( ob ) gene]
+[PHENOTYPE-obesity-23]	[GENOTYPE-frameshift mutation in the human leptin ( ob ) gene]
+PS98 Partial deletions of Hsa21-4 were identified in three patients with developmental delay-12 , epilepsy-14 , microcephaly-16 , and distinctive manifestations .
+3
+[PHENOTYPE-microcephaly-16]	[GENOTYPE-Partial deletions of Hsa21-4]
+[PHENOTYPE-developmental delay-12]	[GENOTYPE-Partial deletions of Hsa21-4]
+[PHENOTYPE-epilepsy-14]	[GENOTYPE-Partial deletions of Hsa21-4]
+PS104 Mutations in the SLC22A12 gene-5 , which encodes a uric acid transporter , URAT1-14 , are associated with renal hypouricaemia-20 .
+1
+[PHENOTYPE-renal hypouricaemia-20]	[GENOTYPE-SLC22A12 gene-5]
+PS111 Presence of a CRP4 A - allele-7 was associated with systemic lupus erythematosus nephritis-14 ( P < 0 . 01 ) and inversely correlated with arthritis-26 ( P < 0 . 01 ) , when comparing within the systemic lupus erythematosus group .
+2
+[PHENOTYPE-systemic lupus erythematosus nephritis-14]	[GENOTYPE-CRP4 A - allele-7]
+[PHENOTYPE-arthritis-26]	[GENOTYPE-CRP4 A - allele-7]
+PS143 Higher Insulin - like growth factor 1-7 circulating levels significantly increased 15 % of cancer-15 risk ( odds ratio ( OR ) , 1 . 15 , 95 % confidence interval ( CI ) , 1 . 03 - 1 . 29 ) , especially among prostate , pre - menopausal breast-52 and colorectal cancer-55 patients , whereas higher concentrations of IGF - binding protein 3-66 significantly decreased the risk of advanced prostate cancer-74 by 56 % ( OR , 0 . 44 , 95 % CI , 0 . 25 - 0 . 77 ) .
+5
+[PHENOTYPE-prostate]	[GENOTYPE-Insulin - like growth factor 1-7]
+[PHENOTYPE-colorectal cancer-55]	[GENOTYPE-Insulin - like growth factor 1-7]
+[PHENOTYPE-prostate cancer-74]	[GENOTYPE-IGF - binding protein 3-66]
+[PHENOTYPE-pre - menopausal breast-52]	[GENOTYPE-Insulin - like growth factor 1-7]
+[PHENOTYPE-cancer-15]	[GENOTYPE-Insulin - like growth factor 1-7]
+PS195 The study was designed to examine the effect on clinical expression of rheumatoid arthritis-14 of HLA alleles-17 , particularly DR4-20 and DR1-22 that contain susceptibility sequences for rheumatoid arthritis-29 in the third hypervariable region ( HVR3 ) of HLA - DRB1-41 .
+8
+[PHENOTYPE-rheumatoid arthritis-29]	[GENOTYPE-HLA alleles-17]
+[PHENOTYPE-rheumatoid arthritis-29]	[GENOTYPE-DR4-20]
+[PHENOTYPE-rheumatoid arthritis-14]	[GENOTYPE-DR1-22]
+[PHENOTYPE-rheumatoid arthritis-14]	[GENOTYPE-HLA alleles-17]
+[PHENOTYPE-rheumatoid arthritis-29]	[GENOTYPE-DR1-22]
+[PHENOTYPE-rheumatoid arthritis-14]	[GENOTYPE-DR4-20]
+[PHENOTYPE-rheumatoid arthritis-14]	[GENOTYPE-( HVR3 ) of HLA - DRB1-41]
+[PHENOTYPE-rheumatoid arthritis-29]	[GENOTYPE-( HVR3 ) of HLA - DRB1-41]
+PS217 The genetic control of sex and HLA - B8-9 , DR3-11 of serum IgA-14 levels could be related to the high incidence of autoimmune disorders-25 among females and HLA - B8-31 , DR3-33 - positive individuals .
+5
+[PHENOTYPE-autoimmune disorders-25]	[GENOTYPE-serum IgA-14]
+[PHENOTYPE-autoimmune disorders-25]	[GENOTYPE-HLA - B8-31]
+[PHENOTYPE-autoimmune disorders-25]	[GENOTYPE-DR3-11]
+[PHENOTYPE-autoimmune disorders-25]	[GENOTYPE-DR3-33]
+[PHENOTYPE-autoimmune disorders-25]	[GENOTYPE-HLA - B8-9]
+PS232 Congenital hyperinsulinism-2 is characterized by persistent hypoglycemia-7 due to the inappropriate insulin-12 secretion .
+2
+[PHENOTYPE-Congenital hyperinsulinism-2]	[GENOTYPE-insulin-12]
+[PHENOTYPE-hypoglycemia-7]	[GENOTYPE-insulin-12]
+PS266 The RET proto - oncogene-5 is responsible for medullary thyroid cancer-11 and multiple endocrine neoplasia-15 type 2 .
+2
+[PHENOTYPE-neoplasia-15]	[GENOTYPE-RET proto - oncogene-5]
+[PHENOTYPE-thyroid cancer-11]	[GENOTYPE-RET proto - oncogene-5]
+PS271 Frequent inactivation of DMBT1-4 contrasting with rare mutations of PTEN-10 may indicate that DMBT1-14 is preferentially involved in oligodendrogliomas-19 .
+2
+[PHENOTYPE-oligodendrogliomas-19]	[GENOTYPE-DMBT1-4]
+[PHENOTYPE-oligodendrogliomas-19]	[GENOTYPE-DMBT1-14]
+PS321 Loss - of - function mutations of the MECP2 gene-10 at Xq28-12 are associated with Rett syndrome in females and with syndromic and nonsyndromic forms of mental retardation-28 in males .
+1
+[PHENOTYPE-mental retardation-28]	[GENOTYPE-Loss - of - function mutations of the MECP2 gene-10 at Xq28-12]
+PS324 Anhidrotic ectodermal dysplasia-3 is caused by mutations in the ectodermal dysplasia-11 gene encoding ectodysplasin A-15 , a member of the TNF ligand superfamily-23 involved in the communication between the cells .
+2
+[PHENOTYPE-Anhidrotic ectodermal dysplasia-3]	[GENOTYPE-ectodysplasin A-15]
+[PHENOTYPE-ectodermal dysplasia-11]	[GENOTYPE-ectodysplasin A-15]
+PS328 Mutation screening and analysis in hypertrophic cardiomyopathy-7 family could therefore facilitate the early hypertrophic cardiomyopathy diagnosis and would be helpful for the prediction , prevention and early treatment of hypertrophic cardiomyopathy-31 linked with MYH7 gene-35 mutation .
+2
+[PHENOTYPE-cardiomyopathy-7]	[GENOTYPE-MYH7 gene-35]
+[PHENOTYPE-hypertrophic cardiomyopathy-31]	[GENOTYPE-MYH7 gene-35]
+PS361 Evaluation of the risk factors , and phenotype - genotype correlation of familial Mediterranean fever-15 gene ( MEFV ) and serum amyloid A1-23 gene polymorphisms in renal amyloidosis-28 .
+1
+[PHENOTYPE-renal amyloidosis-28]	[GENOTYPE-serum amyloid A1-23]
+PS368 Unlike mutations in the beta - myosin heavy chain gene-10 , the prognostic significance of which reflect their hypertrophic expressivity , cardiac troponinT mutations are associated with a mild degree of hypertrophy-32 , but a high incidence of sudden cardiac death-41 .
+2
+[PHENOTYPE-sudden cardiac death-41]	[GENOTYPE-troponinT mutations]
+[PHENOTYPE-hypertrophy-32]	[GENOTYPE-troponinT mutations]
+PS388 The only infant with the deletion of 3 alpha - globin-11 structural genes had 25 % hemoglobin Bart ' s associated with a moderate microcytic anemia-26 at birth and developed the clinical picture of hemoglobin H disease-37 .
+2
+[PHENOTYPE-hemoglobin H disease-37]	[GENOTYPE-deletion of 3 alpha - globin-11]
+[PHENOTYPE-anemia-26]	[GENOTYPE-deletion of 3 alpha - globin-11]
+PS398 MECP2-1 has also been implicated in variable mental retardation-9 phenotypes , including X - linked Mental Retardation-17 , Fragile - X-21 - like Syndrome and Angelman - like ( AS ) phenotypes .
+2
+[PHENOTYPE-Mental Retardation-17]	[GENOTYPE-MECP2-1]
+[PHENOTYPE-mental retardation-9]	[GENOTYPE-MECP2-1]
+PS405 We found significant correlations between germline CDKN2A mutations and melanoma-10 and between dysplastic naevus-14 syndrome phenotype and melanoma-18 , respectively .
+1
+[PHENOTYPE-melanoma-10]	[GENOTYPE-germline CDKN2A mutations]
+PS414 Mutations in inhibitory GABAA receptor subunit genes ( GABRA1-9 , GABRB3-11 , GABRG2-13 and GABRD-15 ) have been associated with idiopathic epilepsy syndromes including childhood absence epilepsy , juvenile myoclonic epilepsy , pure febrile seizures-35 , generalized epilepsy-38 with febrile seizures-41 plus ( GEfebrile seizures-45 + ) , and Dravet syndrome ( also known as severe myoclonic epilepsy in infancy , SMEI ) .
+16
+[PHENOTYPE-generalized epilepsy-38]	[GENOTYPE-GABRA1-9]
+[PHENOTYPE-generalized epilepsy-38]	[GENOTYPE-GABRD-15]
+[PHENOTYPE-seizures-45]	[GENOTYPE-GABRA1-9]
+[PHENOTYPE-seizures-41]	[GENOTYPE-GABRG2-13]
+[PHENOTYPE-seizures-45]	[GENOTYPE-GABRD-15]
+[PHENOTYPE-seizures-35]	[GENOTYPE-GABRA1-9]
+[PHENOTYPE-seizures-45]	[GENOTYPE-GABRB3-11]
+[PHENOTYPE-seizures-41]	[GENOTYPE-GABRA1-9]
+[PHENOTYPE-seizures-41]	[GENOTYPE-GABRD-15]
+[PHENOTYPE-seizures-35]	[GENOTYPE-GABRG2-13]
+[PHENOTYPE-generalized epilepsy-38]	[GENOTYPE-GABRB3-11]
+[PHENOTYPE-generalized epilepsy-38]	[GENOTYPE-GABRG2-13]
+[PHENOTYPE-seizures-41]	[GENOTYPE-GABRB3-11]
+[PHENOTYPE-seizures-45]	[GENOTYPE-GABRG2-13]
+[PHENOTYPE-seizures-35]	[GENOTYPE-GABRD-15]
+[PHENOTYPE-seizures-35]	[GENOTYPE-GABRB3-11]
+PS472 Apparent mineralocorticoid excess is a syndrome of severe low - renin mineralocorticoid hypertension-13 associated with marked hypokalaemia-17 which arises from a congenital deficiency of 11 beta - Hydroxysteroid dehydrogenase-29 .
+1
+[PHENOTYPE-hypokalaemia-17]	[GENOTYPE-congenital deficiency of 11 beta - Hydroxysteroid dehydrogenase-29]
+PS571 Mutations of the ATP7A gene-5 ( OMIM 300011 ) lead to the Menkes disease involving impaired brain development , neurological degeneration , connective tissue abnormalities , and high lethality in early infancy-32 .
+0
+PS577 Alport syndrome is a type IV collagen-7 hereditary disease characterized by progressive hematuric nephritis-14 , hearing loss-17 , and ocular changes .
+2
+[PHENOTYPE-hearing loss-17]	[GENOTYPE-type IV collagen-7]
+[PHENOTYPE-nephritis-14]	[GENOTYPE-type IV collagen-7]
+PS604 Germline mutations of a second cancer susceptibility gene BRCA1-9 ( ref . 5 ) , are associated with a strong predisposition to ovarian cancer-24 as well as female breast cancer-30 .
+2
+[PHENOTYPE-ovarian cancer-24]	[GENOTYPE-BRCA1-9]
+[PHENOTYPE-breast cancer-30]	[GENOTYPE-BRCA1-9]
+PS699 Alterations in tumour suppressor genes ( p53-7 , Rb-9 ) are associated instead with the most aggressive and poorly differentiated forms of thyroid cancer-24 , indicating that , in the thyroid tumourigenic process , they represent late genetic events .
+2
+[PHENOTYPE-thyroid cancer-24]	[GENOTYPE-Rb-9]
+[PHENOTYPE-thyroid cancer-24]	[GENOTYPE-p53-7]
+PS704 Complete achromatopsia-2 is a rare autosomal recessive disease associated with CNGA3-11 , CNGB3-13 , GNAT2-15 and PDE6C-17 mutations .
+4
+[PHENOTYPE-achromatopsia-2]	[GENOTYPE-GNAT2-15]
+[PHENOTYPE-achromatopsia-2]	[GENOTYPE-PDE6C-17]
+[PHENOTYPE-achromatopsia-2]	[GENOTYPE-CNGA3-11]
+[PHENOTYPE-achromatopsia-2]	[GENOTYPE-CNGB3-13]
+PS715 The allelic variants in the NOD2 / CARD15-8 gene G908R-10 , R702W-12 , and 1007fs are strongly and independently associated with susceptibility to Crohn ' s disease-27 .
+4
+[PHENOTYPE-Crohn ' s disease-27]	[GENOTYPE-NOD2 / CARD15-8]
+[PHENOTYPE-Crohn ' s disease-27]	[GENOTYPE-1007fs]
+[PHENOTYPE-Crohn ' s disease-27]	[GENOTYPE-R702W-12]
+[PHENOTYPE-Crohn ' s disease-27]	[GENOTYPE-G908R-10]
+PS723 Mutations in the CRB1 gene-5 are associated with variable phenotypes of severe retinal dystrophies-14 , ranging from leber congenital amaurosis to rod - cone dystrophy , also called retinitis pigmentosa-30 .
+2
+[PHENOTYPE-retinal dystrophies-14]	[GENOTYPE-CRB1 gene-5]
+[PHENOTYPE-retinitis pigmentosa-30]	[GENOTYPE-CRB1 gene-5]
+PS724 Moreover , retinal dystrophies-4 resulting from CRB1-7 mutations may be accompanied by specific fundus features : preservation of the para - arteriolar retinal pigment epithelium ( PPretinitis pigmentosaE-28 ) and retinal telangiectasia-32 with exudation ( also referred to as Coats - like vasculopathy-43 ) .
+4
+[PHENOTYPE-retinal dystrophies-4]	[GENOTYPE-CRB1-7]
+[PHENOTYPE-vasculopathy-43]	[GENOTYPE-CRB1-7]
+[PHENOTYPE-PPretinitis pigmentosaE-28]	[GENOTYPE-CRB1-7]
+[PHENOTYPE-retinal telangiectasia-32]	[GENOTYPE-CRB1-7]
+PS739 Mutations in Notch3 gene-4 are responsible for the cerebral autosomal dominant arteriopathy-12 with subcortical infarcts-15 and leukoencephalopathy-17 .
+3
+[PHENOTYPE-subcortical infarcts-15]	[GENOTYPE-Notch3 gene-4]
+[PHENOTYPE-leukoencephalopathy-17]	[GENOTYPE-Notch3 gene-4]
+[PHENOTYPE-arteriopathy-12]	[GENOTYPE-Notch3 gene-4]
+PS762 Type I fibrinogen-3 deficiencies ( hypofibrinogenemia and afibrinogenemia-8 ) are rare congenital disorders characterized by low or unmeasurable plasma fibrinogen antigen-21 levels .
+1
+[PHENOTYPE-hypofibrinogenemia and afibrinogenemia-8]	[GENOTYPE-plasma fibrinogen antigen-21]
+PS771 Both Glycogen storage disease type Ia and Glycogen storage disease type Ib patients manifest phenotypic glucose - 6 - phosphatase deficiency , characterized by growth retardation , hypoglycemia-28 , hepatomegaly-30 , nephromegaly-32 , hyperlipidemia-34 , hyperuricemia-36 , and lactic academia and the current treatment is a dietary therapy .
+5
+[PHENOTYPE-hyperuricemia-36]	[GENOTYPE-glucose - 6 - phosphatase deficiency]
+[PHENOTYPE-nephromegaly-32]	[GENOTYPE-glucose - 6 - phosphatase deficiency]
+[PHENOTYPE-hypoglycemia-28]	[GENOTYPE-glucose - 6 - phosphatase deficiency]
+[PHENOTYPE-hyperlipidemia-34]	[GENOTYPE-glucose - 6 - phosphatase deficiency]
+[PHENOTYPE-hepatomegaly-30]	[GENOTYPE-glucose - 6 - phosphatase deficiency]
+PS804 R7V-1 is a seven - aminoacid peptide epitope derived from cellular beta - 2 microglobulin-15 , present on human immunodeficiency-20 virus virion surface in patients with human immunodeficiency-28 virus infection .
+4
+[PHENOTYPE-immunodeficiency-28]	[GENOTYPE-cellular beta - 2 microglobulin-15]
+[PHENOTYPE-immunodeficiency-20]	[GENOTYPE-R7V-1]
+[PHENOTYPE-immunodeficiency-28]	[GENOTYPE-R7V-1]
+[PHENOTYPE-immunodeficiency-20]	[GENOTYPE-cellular beta - 2 microglobulin-15]
+PS823 Mutations in two genes , Endoglin-6 and activin receptor - like kinase 1-13 ( ACVRL1-15 or ALK1-17 ) have been associated with hemorrhagic telangiectasia-24 .
+4
+[PHENOTYPE-hemorrhagic telangiectasia-24]	[GENOTYPE-ACVRL1-15]
+[PHENOTYPE-hemorrhagic telangiectasia-24]	[GENOTYPE-activin receptor - like kinase 1-13]
+[PHENOTYPE-hemorrhagic telangiectasia-24]	[GENOTYPE-Endoglin-6]
+[PHENOTYPE-hemorrhagic telangiectasia-24]	[GENOTYPE-ALK1-17]
+PS872 Similarly , in patients with Polycythaemia vera , homozygous as compared with heterozygous JAK2 ( V617F-16 ) correlated with higher levels of polycythaemia rubra vera - 1 expression ( P = 0 . 11 ) .
+2
+[PHENOTYPE-Polycythaemia vera]	[GENOTYPE-JAK2 ( V617F-16 )]
+[PHENOTYPE-polycythaemia rubra vera - 1 expression]	[GENOTYPE-JAK2 ( V617F-16 )]
+PS893 Several biochemical abnormalities have been postulated to play a role in the pathogenesis of the neurological changes in ARG1 deficiency including hyperargininemia-22 , elevated guanidino compounds and elevated glutamine levels , as well as the hyperammonemia-36 .
+2
+[PHENOTYPE-hyperammonemia-36]	[GENOTYPE-ARG1 deficiency]
+[PHENOTYPE-hyperargininemia-22]	[GENOTYPE-ARG1 deficiency]
+PS910 Carnitine palmitoyltransferase II deficiency is the most common lipid myopathy-10 in adults and is characterized by exercise - induced pain , stiffness , and myoglobinuria-25 .
+1
+[PHENOTYPE-myoglobinuria-25]	[GENOTYPE-Carnitine palmitoyltransferase II deficiency]
+PS917 The correlation of atrophic gastritis and gastric cancer with a pepsinogen phenotype lacking pepsinogen A3 can be explained by loss of expression of pepsinogen A3 encoding genes-27 throughout the complete gastric mucosa .
+1
+[PHENOTYPE-gastric cancer with a pepsinogen phenotype lacking pepsinogen A3]	[GENOTYPE-loss of expression of pepsinogen A3 encoding genes-27]
+PS919 The deregulation of ferritin-4 production responsible of Hereditary hyperferritinemia - cataract syndrome-12 is caused by heterogeneous mutations in the iron regulatory element of L - ferritin-26 that interfere with the binding of iron regulatory proteins , disrupting the negative control of L - ferritin-44 synthesis and causing the constitutive up - regulation of ferritin L - chains-57 .
+4
+[PHENOTYPE-hyperferritinemia - cataract syndrome-12]	[GENOTYPE-L - ferritin-26]
+[PHENOTYPE-hyperferritinemia - cataract syndrome-12]	[GENOTYPE-ferritin L - chains-57]
+[PHENOTYPE-hyperferritinemia - cataract syndrome-12]	[GENOTYPE-ferritin-4]
+[PHENOTYPE-hyperferritinemia - cataract syndrome-12]	[GENOTYPE-L - ferritin-44]
+PS925 tumor necrosis factor microsatellite alleles-5 were not related to the prevalences of bone erosion , rheumatoid nodule , sicca syndrome , pulmonary fibrosis-23 , and seropositivity of rheumatoid factor-29 in patients with rheumatoid arthritis-34 .
+0
+PS927 The association of tumor necrosis factorb6-6 with the susceptibility to rheumatoid arthritis-12 depends on the presence of HLA - DR4-20 , and the correlation of tumor necrosis factora9-28 to rheumatoid arthritis-31 depends on the absence of HLA - DR4-39 .
+8
+[PHENOTYPE-rheumatoid arthritis-31]	[GENOTYPE-HLA - DR4-20]
+[PHENOTYPE-rheumatoid arthritis-12]	[GENOTYPE-tumor necrosis factora9-28]
+[PHENOTYPE-rheumatoid arthritis-31]	[GENOTYPE-HLA - DR4-39]
+[PHENOTYPE-rheumatoid arthritis-12]	[GENOTYPE-tumor necrosis factorb6-6]
+[PHENOTYPE-rheumatoid arthritis-31]	[GENOTYPE-tumor necrosis factorb6-6]
+[PHENOTYPE-rheumatoid arthritis-12]	[GENOTYPE-HLA - DR4-39]
+[PHENOTYPE-rheumatoid arthritis-12]	[GENOTYPE-HLA - DR4-20]
+[PHENOTYPE-rheumatoid arthritis-31]	[GENOTYPE-tumor necrosis factora9-28]
+PS929 Moreover , tumor necrosis factorb6-5 and HLA - DR4-9 have a synergistic effect on the susceptibility to rheumatoid arthritis-19 .
+2
+[PHENOTYPE-rheumatoid arthritis-19]	[GENOTYPE-tumor necrosis factorb6-5]
+[PHENOTYPE-rheumatoid arthritis-19]	[GENOTYPE-HLA - DR4-9]
+PS444 Tumor necrosis factora3 - e1-25 and tumor necrosis factor - 308A-31 have a synergistic effect on preventing from rheumatoid arthritis-40 .
+2
+[PHENOTYPE-rheumatoid arthritis-40]	[GENOTYPE-tumor necrosis factor - 308A-31]
+[PHENOTYPE-rheumatoid arthritis-40]	[GENOTYPE-Tumor necrosis factora3 - e1-25]
+PS939 Heterozygous GNAS inactivating mutations-4 are known to induce pseudohypoparathyroidism type 1a when maternally inherited and pseudopseudohypoparathyroidism-16 when paternally inherited .
+2
+[PHENOTYPE-pseudopseudohypoparathyroidism-16]	[GENOTYPE-GNAS inactivating mutations-4]
+[PHENOTYPE-pseudohypoparathyroidism type 1a]	[GENOTYPE-GNAS inactivating mutations-4]
+PS983 Mutations in the crumbs homologue 1 gene-7 cause a specific form of retinitis pigmentosa that is designated " retinitis pigmentosa12 " and is characterized by a preserved para - arteriolar retinal pigment epithelium ( PPretinitis pigmentosaE ) and by severe loss of vision at age < 20 years .
+2
+[PHENOTYPE-PPretinitis pigmentosaE]	[GENOTYPE-crumbs homologue 1 gene-7]
+[PHENOTYPE-retinitis pigmentosa12]	[GENOTYPE-crumbs homologue 1 gene-7]
+PS1002 The functional HSPB1 promoter - 1271G > C variant-9 may affect lung cancer-13 susceptibility and survival by modulating endogenous Heat - shock protein 27-24 synthesis levels .
+2
+[PHENOTYPE-cancer-13]	[GENOTYPE-Heat - shock protein 27-24]
+[PHENOTYPE-cancer-13]	[GENOTYPE-HSPB1 promoter - 1271G > C variant-9]
+PS1018 In regard to ApoE-4 , epsilon4 / epsilon4 genotype was absent in the Chilean population analyzed , and only the epsilon2 / epsilon4 genotype was significantly increased in both mild cognitive impairment-32 and Alzheimer ' s disease patients patients .
+1
+[PHENOTYPE-cognitive impairment-32]	[GENOTYPE-epsilon2 / epsilon4 genotype]
+PS1061 Interaction of MEF2C-3 with the deleted febrile seizure-8 ( FEB4 ) and juveline myoclonic epilepsy ( EJM4 ) loci plus the G - protein receptor-25 ( GPR98-27 / MASS1-29 / Usher syndrome ) gene may moderate the phenotype , perhaps through common regulation by calcium .
+4
+[PHENOTYPE-seizure-8]	[GENOTYPE-GPR98-27]
+[PHENOTYPE-seizure-8]	[GENOTYPE-G - protein receptor-25]
+[PHENOTYPE-seizure-8]	[GENOTYPE-MASS1-29]
+[PHENOTYPE-seizure-8]	[GENOTYPE-MEF2C-3]
+PS1069 This study examines the relationship of genotype to phenotype in 14 unselected patients who were found to harbour the A3243G transition in the mitochondrial transfer RNALeu-26 ( UUR-28 ) gene commonly associated with the syndrome of mitochondrial encephalopathy-38 , lactic acidosis-41 and strokes-43 ( MELAS ) .
+6
+[PHENOTYPE-strokes-43]	[GENOTYPE-UUR-28]
+[PHENOTYPE-mitochondrial encephalopathy-38]	[GENOTYPE-mitochondrial transfer RNALeu-26]
+[PHENOTYPE-mitochondrial encephalopathy-38]	[GENOTYPE-UUR-28]
+[PHENOTYPE-lactic acidosis-41]	[GENOTYPE-mitochondrial transfer RNALeu-26]
+[PHENOTYPE-lactic acidosis-41]	[GENOTYPE-UUR-28]
+[PHENOTYPE-strokes-43]	[GENOTYPE-mitochondrial transfer RNALeu-26]
+PS1088 This is the first complete genetic study analyzing the association of lipoprotein lipase-13 and apolipoprotein CII mutation-17 in a hyperlipidemic pancreatitis-21 population . lipoprotein lipase S447X mutation-27 is associated with a higher risk of pancreatic calcification-36 and steatorrhea than those previously known factors in hyperlipidemic pancreatitis-46 patients .
+7
+[PHENOTYPE-hyperlipidemic pancreatitis-46]	[GENOTYPE-lipoprotein lipase S447X mutation-27]
+[PHENOTYPE-hyperlipidemic pancreatitis-21]	[GENOTYPE-lipoprotein lipase S447X mutation-27]
+[PHENOTYPE-hyperlipidemic pancreatitis-21]	[GENOTYPE-apolipoprotein CII mutation-17]
+[PHENOTYPE-hyperlipidemic pancreatitis-46]	[GENOTYPE-lipoprotein lipase-13]
+[PHENOTYPE-hyperlipidemic pancreatitis-21]	[GENOTYPE-lipoprotein lipase-13]
+[PHENOTYPE-pancreatic calcification-36]	[GENOTYPE-lipoprotein lipase S447X mutation-27]
+[PHENOTYPE-hyperlipidemic pancreatitis-46]	[GENOTYPE-apolipoprotein CII mutation-17]
+PS1103 In summary , we show that the COX - 2 - 765 G allele promoter polymorphism-16 is significantly associated with gastric cancer-22 when compared with the normal control group , but does not appear to be related directly to COX - 2-42 expression pattern in gastric cancer-47 .
+1
+[PHENOTYPE-gastric cancer-22]	[GENOTYPE-COX - 2 - 765 G allele promoter polymorphism-16]
+PS1140 The methods are applied to a study of the penetrance for breast cancer-13 of BRCA1-15 and BRCA2-17 mutations among Ashkenazi Jews .
+2
+[PHENOTYPE-breast cancer-13]	[GENOTYPE-BRCA2-17]
+[PHENOTYPE-breast cancer-13]	[GENOTYPE-BRCA1-15]
+PS1200 To investigate the situation of CXCR1-6 polymorphisms in Chinese Holstein cattle and determine the relationship between the CXCR1 SNPs-19 and mastitis resistance-22 , the CXCR1-25 SNPs in 610 Chinese Holstein cattle of 30 families were investigated using polymerase chain reaction - single strand conformation polymorphism technique .
+3
+[PHENOTYPE-mastitis resistance-22]	[GENOTYPE-CXCR1-25]
+[PHENOTYPE-mastitis resistance-22]	[GENOTYPE-CXCR1-6]
+[PHENOTYPE-mastitis resistance-22]	[GENOTYPE-CXCR1 SNPs-19]
+PS1319 We describe a male infant with carnitine palmitoyltransferase 2-9 deficiency who presented with acute encephalopathy-15 related to human herpesvirus - 6 infection .
+1
+[PHENOTYPE-encephalopathy-15]	[GENOTYPE-carnitine palmitoyltransferase 2-9]
+PS1330 PON1-1 status , which includes PON1-6 level as well as PON1192 genotype-12 , may be a better predictor for cardiovascular disease-21 or organophosphate susceptibility than PON1 genotype-27 alone .
+4
+[PHENOTYPE-cardiovascular disease-21]	[GENOTYPE-PON1 genotype-27]
+[PHENOTYPE-cardiovascular disease-21]	[GENOTYPE-PON1-1]
+[PHENOTYPE-cardiovascular disease-21]	[GENOTYPE-PON1192 genotype-12]
+[PHENOTYPE-cardiovascular disease-21]	[GENOTYPE-PON1-6]
+PS1348 Multiple Endocrine Neoplasia2-3 refers to the inherited forms of medullary thyroid carcinoma-12 which is associated with phaechromocytoma and parathyroid tumours in Multiple Endocrine Neoplasia2A , phaechromocytoma-26 and mucosal neuromas in Multiple Endocrine Neoplasia2B-33 .
+3
+[PHENOTYPE-Neoplasia2B-33]	[GENOTYPE-Endocrine Neoplasia2-3]
+[PHENOTYPE-phaechromocytoma-26]	[GENOTYPE-Endocrine Neoplasia2-3]
+[PHENOTYPE-thyroid carcinoma-12]	[GENOTYPE-Endocrine Neoplasia2-3]
+PS1361 In this study we investigated whether expression of the inducible isoform of cyclooxygenase ( cyclooxygenase - 2-17 ) is linked with the multidrug resistance phenotype in breast cancer-28 .
+1
+[PHENOTYPE-multidrug resistance phenotype in breast cancer-28]	[GENOTYPE-cyclooxygenase - 2-17]
+PS1373 Patients with isolated hypodontia-4 caused by PAX9-7 or MSX1-9 mutation reported before May 2007 were enrolled .
+2
+[PHENOTYPE-hypodontia-4]	[GENOTYPE-PAX9-7]
+[PHENOTYPE-hypodontia-4]	[GENOTYPE-MSX1-9]
+PS1398 Analyses that took into account confounding factors confirmed the negative association of hemoglobin C-14 with malaria-16 attack ( P = 0 . 0074 ) and evidenced a negative correlation between hemoglobin C-32 and parasitemia-34 ( P = 0 . 0009 ) .
+4
+[PHENOTYPE-parasitemia-34]	[GENOTYPE-hemoglobin C-14]
+[PHENOTYPE-malaria-16]	[GENOTYPE-hemoglobin C-32]
+[PHENOTYPE-malaria-16]	[GENOTYPE-hemoglobin C-14]
+[PHENOTYPE-parasitemia-34]	[GENOTYPE-hemoglobin C-32]
+PS1445 The risk of therapeutic failure-5 after chloroquine was increased by the presence of pfcrt K76T ( Day 28 , odds ratio = 7 . 2 [ 95 % CI : 4 . 5 - 11 . 5 ] ) , pfmdr1 N86Y-42 was associated with both chloroquine ( Day 28 , odds ratio = 1 . 8 [ 95 % CI : 1 . 3 - 2 . 4 ] ) and amodiaquine failures-74 ( odds ratio = 5 . 4 [ 95 % CI : 2 . 6 - 11 . 3 , p < 0 . 001 ] ) .
+1
+[PHENOTYPE-amodiaquine failures-74]	[GENOTYPE-pfmdr1 N86Y-42]
+PS1486 To test the hypothesis that polymorphisms of ESR1-8 , the gene encoding estrogen receptor alpha-15 , are associated with susceptibility , clinical phenotype , and progression of breast cancer-29 .
+2
+[PHENOTYPE-breast cancer-29]	[GENOTYPE-polymorphisms of ESR1-8]
+[PHENOTYPE-breast cancer-29]	[GENOTYPE-estrogen receptor alpha-15]
+PS1487 Frequencies of single - nucleotide polymorphismss were compared between cases and controls to identify single - nucleotide polymorphismss associated with cancer-21 susceptibility and between cases with different clinical phenotypes to determine the role of ESR1 polymorphism in cancer-38 progression .
+2
+[PHENOTYPE-cancer-38]	[GENOTYPE-ESR1 polymorphism]
+[PHENOTYPE-cancer-21]	[GENOTYPE-ESR1 polymorphism]
+PS1492 Multiple endocrine neoplasia-3 type 2 is caused by autosomal dominant gain - of - function mutations in the RET proto - oncogene-22 , which includes multiple endocrine neoplasia type 2A-30 ( multiple endocrine neoplasia-34 type 2A ) , type 2B ( MEN 2B ) , and familial medullary thyroid carcinoma-50 .
+3
+[PHENOTYPE-neoplasia-34]	[GENOTYPE-RET proto - oncogene-22]
+[PHENOTYPE-neoplasia-3]	[GENOTYPE-RET proto - oncogene-22]
+[PHENOTYPE-thyroid carcinoma-50]	[GENOTYPE-RET proto - oncogene-22]
+PS1541 A review of all published mutations suggests that mutation in the C - terminal coiled coil region or truncation of the tailpiece is associated with haematological - only phenotype , while mutation of the head ATPase domain-37 frequently is associated with nephropathy-42 and / or hearing loss-47 .
+2
+[PHENOTYPE-nephropathy-42]	[GENOTYPE-head ATPase domain-37]
+[PHENOTYPE-hearing loss-47]	[GENOTYPE-head ATPase domain-37]
+PS1597 Haploinsufficiency of a more proximal region , located on 10p13 - 10p14-12 , designated as DGCR2-16 is associated with congenital heart defects-22 and thymus hypoplasia-25 / aplasia or T cell defect .
+2
+[PHENOTYPE-congenital heart defects-22]	[GENOTYPE-DGCR2-16]
+[PHENOTYPE-hypoplasia-25]	[GENOTYPE-DGCR2-16]
+PS1629 Although both Juvenile polyposis-4 and Juvenile polyposis - hemorrhagic telangiectasia-10 are caused by SMAD4 mutations-15 , a possible genotype : phenotype correlation was noted as all of the SMAD4 mutations-30 in the Juvenile polyposis - hemorrhagic telangiectasia patients were clustered in the COOH - terminal MH2 domain of the protein .
+2
+[PHENOTYPE-polyposis-4]	[GENOTYPE-SMAD4 mutations-15]
+[PHENOTYPE-telangiectasia-10]	[GENOTYPE-SMAD4 mutations-15]
+PS1650 There was significant phenotypic variability , but the presence of skeletal muscle involvement ( p < 0 . 001 ) , supraventricular arrhythmia-23 ( p = 0 . 003 ) , conduction defects ( p = 0 . 01 ) , and " mildly " dilated cardiomyopathy-47 ( p = 0 . 006 ) were predictors of lamin A / C gene mutations-63 .
+2
+[PHENOTYPE-dilated cardiomyopathy-47]	[GENOTYPE-lamin A / C gene mutations-63]
+[PHENOTYPE-supraventricular arrhythmia-23]	[GENOTYPE-lamin A / C gene mutations-63]
+PS1669 The polymorphisms rs9858542 ( BSN ) and rs3197999-8 ( MST1 ) , on 3p21 locus , have been found associated with susceptibility to inflammatory bowel disease-26 .
+2
+[PHENOTYPE-inflammatory bowel disease-26]	[GENOTYPE-rs9858542]
+[PHENOTYPE-inflammatory bowel disease-26]	[GENOTYPE-rs3197999-8]
+PS1686 In conclusion , SMN2 alleles-5 are not functionally equivalent among Spinal muscular atrophy-13 patients , although in general the SMN2-20 copy number is correlated with the severity of Spinal muscular atrophy-31 .
+4
+[PHENOTYPE-Spinal muscular atrophy-13]	[GENOTYPE-SMN2-20]
+[PHENOTYPE-Spinal muscular atrophy-31]	[GENOTYPE-SMN2 alleles-5]
+[PHENOTYPE-Spinal muscular atrophy-31]	[GENOTYPE-SMN2-20]
+[PHENOTYPE-Spinal muscular atrophy-13]	[GENOTYPE-SMN2 alleles-5]
+PS1688 Human leukocyte antigen - DQB1 alleles-60 are associated with susceptibility or resistance to Gastric cancer-69 and also influence its clinical features .
+1
+[PHENOTYPE-susceptibility or resistance to Gastric cancer-69]	[GENOTYPE-human leukocyte antigen - DQB1 alleles-60]
+PS1718 In conclusion , human leukocyte antigen - DQB1 ( * ) 0602 confers susceptibility to gastric cancer-17 , especially for male Taiwanese and proximal tumor location , while human leukocyte antigen - DQB1 ( * ) 0301 may have a protective effect on Gastric cancer-45 , probably through resistance to Helicobacter pylori infection . 
+2
+[PHENOTYPE-gastric cancer-17]	[GENOTYPE-human leukocyte antigen - DQB1 ( * ) 0602 ]
+[PHENOTYPE-Gastric cancer-45]	[GENOTYPE-human leukocyte antigen - DQB1 ( * ) 0301]
+PS1755 Mutations of the Cu / Zn superoxide dismutase gene-9 ( SOD1-11 ) are responsible for 20 % of autosomal dominant familial Amyotrophic lateral sclerosis-24 .
+2
+[PHENOTYPE-Amyotrophic lateral sclerosis-24]	[GENOTYPE-Cu / Zn superoxide dismutase gene-9]
+[PHENOTYPE-Amyotrophic lateral sclerosis-24]	[GENOTYPE-SOD1-11]
+PS1796 In the pediatric cohort the associations of TNFSF15-8 , NKX2 - 3-12 with Crohn ' s disease , and PTGER4-20 , NKX2 - 3-24 , ZNF365-26 , IFNG-28 , PSMG1-30 with ulcerative colitis-33 , were confirmed .
+5
+[PHENOTYPE-ulcerative colitis-33]	[GENOTYPE-ZNF365-26]
+[PHENOTYPE-ulcerative colitis-33]	[GENOTYPE-NKX2 - 3-24]
+[PHENOTYPE-ulcerative colitis-33]	[GENOTYPE-PTGER4-20]
+[PHENOTYPE-ulcerative colitis-33]	[GENOTYPE-PSMG1-30]
+[PHENOTYPE-ulcerative colitis-33]	[GENOTYPE-IFNG-28]
+PS1803 We report a novel mutation of the factor VII gene-10 that creates the amino acid change Ser 103 to Gly , which resulted in severe factor VII-27 deficiency with reduced factor VII antigen-33 .
+2
+[PHENOTYPE-reduced factor VII antigen-33]	[GENOTYPE-factor VII-27]
+[PHENOTYPE-reduced factor VII antigen-33]	[GENOTYPE-factor VII gene-10]
+PS1866 In neuroblastoma-2 , N - myc amplification and loss of heterozygosity for the short arm-15 of chromosome 1 ( LOH 1p ) are common genetic abnormalities .
+2
+[PHENOTYPE-neuroblastoma-2]	[GENOTYPE-N - myc amplification]
+[PHENOTYPE-neuroblastoma-2]	[GENOTYPE-N - chromosome 1 ( LOH 1p )]
+PS1916 We replicated the genetic association with rs13277113 ( p = 0 . 0009 , OR 1 . 46 ) and rs2736340 ( p = 0 . 0001 , OR 1 . 63 ) from C8orf13 - BLK-37 ( 8p23 . 1-41 , associated with rheumatoid arthritis-46 and systemic lupus erythematosus-50 ) , and rs763361 ( p = 0 . 03 ) from CD226-63 ( 18q22 . 3-67 , associated with multiple sclerosis-72 and type 1 diabetes ) in the Colombian population .
+6
+[PHENOTYPE-systemic lupus erythematosus-50]	[GENOTYPE-C8orf13 - BLK-37]
+[PHENOTYPE-rheumatoid arthritis-46]	[GENOTYPE-8p23 . 1-41]
+[PHENOTYPE-rheumatoid arthritis-46]	[GENOTYPE-C8orf13 - BLK-37]
+[PHENOTYPE-multiple sclerosis-72]	[GENOTYPE-CD226-63]
+[PHENOTYPE-multiple sclerosis-72]	[GENOTYPE-18q22 . 3-67]
+[PHENOTYPE-systemic lupus erythematosus-50]	[GENOTYPE-8p23 . 1-41]
+PS1917 Our results demonstrate that the IL2 / IL21-8 region , C8orf13 - BLK-13 , and CD226-16 influence rheumatoid arthritis-19 in Colombians , and rheumatoid arthritis-25 shares some of the pathogenic mechanisms associated with other autoimmune diseases-36 .
+3
+[PHENOTYPE-rheumatoid arthritis-19]	[GENOTYPE-IL2 / IL21-8 region]
+[PHENOTYPE-rheumatoid arthritis-19]	[GENOTYPE-C8orf13 - BLK-13]
+[PHENOTYPE-rheumatoid arthritis-19]	[GENOTYPE-CD226-16]
+PS1947 We have previously shown that the c1 / c1-9 genotype recognized by Rsa I-14 in the 5 ' - regulatory region of the cytochrome P4502E1-25 may be a susceptibility factor for developing esophageal cancer-34 and lung cancer-37 in Chinese .
+4
+[PHENOTYPE-lung cancer-37]	[GENOTYPE-cytochrome P4502E1-25]
+[PHENOTYPE-lung cancer-37]	[GENOTYPE-c1 / c1-9]
+[PHENOTYPE-esophageal cancer-34]	[GENOTYPE-cytochrome P4502E1-25]
+[PHENOTYPE-esophageal cancer-34]	[GENOTYPE-c1 / c1-9]
+PS1962 Mutations in the Aristaless - related homeobox gene-8 are associated with a wide variety of neurologic disorders including lissencephaly , hydrocephaly-21 , West syndrome , Partington syndrome , and X - linked intellectual disability-34 with or without epilepsy .
+2
+[PHENOTYPE-X - linked intellectual disability-34]	[GENOTYPE-Mutations in the Aristaless - related homeobox gene-8]
+[PHENOTYPE-hydrocephaly-21]	[GENOTYPE-Mutations in the Aristaless - related homeobox gene-8]
+PS2029 Abnormal FOXP3 expression results in defective regulatory functions of T cells , which in turn cause a systemic T - cell - mediated autoaggressive disorder-25 , now called immune dysregulation , polyendocrinopathy autoimmune enteropathy X - linked syndrome .
+2
+[PHENOTYPE-polyendocrinopathy autoimmune enteropathy X - linked syndrome]	[GENOTYPE-Abnormal FOXP3 expression]
+[PHENOTYPE-T - cell - mediated autoaggressive disorder-25]	[GENOTYPE-Abnormal FOXP3 expression]
+PS2037 Familial hypercholesterolemia-2 , characterized by isolated elevation of plasmatic low - density lipoprotein cholesterol and premature coronary heart disease , is associated with mutations in three major genes : low - density lipoprotein receptor-34 , apolipoprotein B and proprotein convertase subtilisin / kexin 9-44 .
+2
+[PHENOTYPE-Familial hypercholesterolemia-2]	[GENOTYPE-apolipoprotein B and proprotein convertase subtilisin / kexin 9-44]
+[PHENOTYPE-Familial hypercholesterolemia-2]	[GENOTYPE-low - density lipoprotein receptor-34]
+PS2043 Large deletions including the TWIST gene-6 have been identified in some patients with learning disabilities-15 or mental retardation-18 , which are not typically part of the Saethre - Chotzen syndrome .
+2
+[PHENOTYPE-learning disabilities-15]	[GENOTYPE-TWIST gene-6]
+[PHENOTYPE-mental retardation-18]	[GENOTYPE-TWIST gene-6]
+PS2050 Since glycosylated hemoglobin-3 is found inside red blood cells , the relationship between RH genetic variability and Hb A ( 1c ) level suggests that RH proteins-27 may influence glucose transport through red cell membrane and / or hemoglobin glycation-40 .
+1
+[PHENOTYPE-glycation-40]	[GENOTYPE-RH proteins-27]
+PS2071 In multiple sclerosis-3 patients confirmed as Arylsulfatase A - PD mutations carriers , arylsulfatase-14 activity was determined in leukocyte homogenates by spectrophotometry .
+2
+[PHENOTYPE-multiple sclerosis-3]	[GENOTYPE-arylsulfatase-14]
+[PHENOTYPE-multiple sclerosis-3]	[GENOTYPE-Arylsulfatase A - PD mutations]
+PS2085 A good correlation was observed between enhanced lung cancer-9 risk and restriction fragment length polymorphisms of the P450IA1 gene-19 with the restriction enzyme MspI-24 .
+1
+[PHENOTYPE-lung cancer-9]	[GENOTYPE-P450IA1 gene-19]
+PS2090 The germline mutations in GATA4-5 , NKX2 . 5-9 , and TFAP2B genes-13 have been identified to be responsible for congenital heart disease-23 .
+3
+[PHENOTYPE-congenital heart disease-23]	[GENOTYPE-NKX2 . 5-9]
+[PHENOTYPE-congenital heart disease-23]	[GENOTYPE-TFAP2B genes-13]
+[PHENOTYPE-congenital heart disease-23]	[GENOTYPE-GATA4-5]
+PS2093 RESULTS : Fifteen heterozygous mutations in the GATA4 gene-9 were identified in 30 congenital heart disease-16 patients , including a novel heterozygous missense mutation ( c . 788 C > G ) of GATA4-34 in one patient with ventricular septal defect-41 .
+2
+[PHENOTYPE-congenital heart disease-16]	[GENOTYPE-mutations in the GATA4 gene-9]
+[PHENOTYPE-ventricular septal defect-41]	[GENOTYPE-missense mutation ( c . 788 C > G ) of GATA4-34]
+PS2097 A sequence variant ( rs7216389 - T ) near the ORMDL3 gene-12 on chromosome 17q21 was recently found to be associated with childhood asthma-24 .
+1
+[PHENOTYPE-asthma-24]	[GENOTYPE-sequence variant ( rs7216389 - T ) near the ORMDL3 gene-12]
+PS2099 Thus , the contribution of rs7216389 - T-8 to the development of asthma-13 is unlikely to operate only through an impact on the expression of ORMDL3-26 or GSDMB genes-29 .
+1
+[PHENOTYPE-asthma-13]	[GENOTYPE-rs7216389 - T-8]
+PS2175 Mutations in SLC3A1-3 , which encodes rBAT , cause Type I cystinuria-12 , and mutations in SLC7A9-17 , which encodes a putative subunit of rBAT-25 ( b ( o , + ) AT ) , cause non - Type I cystinuria-41 .
+3
+[PHENOTYPE-non - Type I cystinuria-41]	[GENOTYPE-SLC7A9-17]
+[PHENOTYPE-non - Type I cystinuria-41]	[GENOTYPE-rBAT-25]
+[PHENOTYPE-Type I cystinuria-12]	[GENOTYPE-SLC3A1-3]
+PS2188 Matrix metalloproteinase - 3-4 is implicated in the formation of atherosclerotic plaques , and the Matrix metalloproteinase - 3 - 1612 5A / 6A-24 polymorphism is associated with myocardial infarction-30 and stable coronary artery disease-35 .
+2
+[PHENOTYPE-myocardial infarction-30]	[GENOTYPE-Matrix metalloproteinase - 3 - 1612 5A / 6A-24]
+[PHENOTYPE-coronary artery disease-35]	[GENOTYPE-Matrix metalloproteinase - 3 - 1612 5A / 6A-24]
+PS2323 Even though the VEGFD gene-5 was interrupted by the X ; 9 translocation , it seems unlikely that VEGFD-19 is causing the translocation patient ' s Hypomagnesemia-27 with secondary hypocalcemia - like phenotype-33 .
+0
+PS2325 Polymorphism of A1166C gene of type 1 vascular receptor of angiotensin II ( AGTR1 ) contributes to formation of arterial hypertension-21 signs diversity in diabetes mellitus-26 type 2 patients .
+2
+[PHENOTYPE-diabetes mellitus-26]	[GENOTYPE-Polymorphism of A1166C gene of type 1 vascular receptor of angiotensin II ( AGTR1 )]
+[PHENOTYPE-arterial hypertension-21]	[GENOTYPE-Polymorphism of A1166C gene of type 1 vascular receptor of angiotensin II ( AGTR1 )]
+PS2329 Primary dysfunction of Phenylalanine hydroxylase-5 caused by mutations in the Phenylalanine hydroxylase gene-13 results in hyperphenylalaninemia-16 , which may impair cognitive development unless corrected by dietary restriction of phenylalanine .
+1
+[PHENOTYPE-hyperphenylalaninemia-16]	[GENOTYPE-Primary dysfunction of Phenylalanine hydroxylase-5 ]
+PS2340 As rare 18q interstitial deletions affecting multiple genes including SET binding protein 1 gene-14 correlate with a milder phenotype , including minor physical anomalies and developmental and expressive speech delay-30 , mutations in SET binding protein 1 gene-38 are thought to result in a gain - of - function or a dominant - negative effect .
+1
+[PHENOTYPE-speech delay-30]	[GENOTYPE-SET binding protein 1 gene-14]
+PS2358 We have shown that the combination of the additional mutations H208Y , R211K , and L214F-16 in human immunodeficiency virus type 1 reverse transcriptase may influence Zidovudine resistance-28 and should be considered when assessing Zidovudine resistance .
+2
+[PHENOTYPE-Zidovudine resistance-28]	[GENOTYPE-combination of the additional mutations H208Y , R211K , and L214F-16]
+[PHENOTYPE-Zidovudine resistance-28]	[GENOTYPE-human immunodeficiency virus type 1 reverse transcriptase-24]
+PS2416 These results suggest that susceptibility to arylamine - induced bladder cancer-11 might be influenced by both hepatic and bladder N - acetyltransferase-22 and that the N - acetyltransferase-28 genotype might be a useful biomarker for screening high risk individuals for bladder cancer-42 resulting from exposure to arylamines .
+2
+[PHENOTYPE-bladder cancer-42]	[GENOTYPE-N - acetyltransferase-28]
+[PHENOTYPE-bladder cancer-11]	[GENOTYPE-bladder N - acetyltransferase-22]
+PS2431 The polymorphisms LTA rs1041981-4 and LGALS2 rs7291467-7 were associated with coronary stenosis-12 index with odds ratios of 1 . 54 ( 95 % CI , 1 . 17 - 2 . 01 ; AA + CA over CC ) and 1 . 62 ( 95 % CI , 1 . 11 - 2 . 37 ; TT over CC + CT ) , respectively .
+2
+[PHENOTYPE-coronary stenosis-12]	[GENOTYPE-LGALS2 rs7291467-7]
+[PHENOTYPE-coronary stenosis-12]	[GENOTYPE-polymorphisms LTA rs1041981-4]
+PS2362 Proteasome subunit a type 6 rs1048990-71 was not associated with coronary stenosis index .
+0
+PS2469 Germline RET proto - oncogene mutations are the genetic causes of multiple endocrine neoplasia-14 type 2 and a strong genotype - phenotype correlation exists , particularly between a specific RET codon mutation-32 and the ( a ) age - related onset and ( b ) thyroid tumor progression , from C - cell hyperplasia-54 to medullary thyroid carcinoma-58 and , ultimately , to nodal metastases .
+6
+[PHENOTYPE-thyroid carcinoma-58]	[GENOTYPE-RET codon mutation-32]
+[PHENOTYPE-multiple endocrine neoplasia-14]	[GENOTYPE-RET codon mutation-32]
+[PHENOTYPE-thyroid carcinoma-58]	[GENOTYPE-Germline RET proto - oncogene mutations]
+[PHENOTYPE-C - cell hyperplasia-54]	[GENOTYPE-RET codon mutation-32]
+[PHENOTYPE-C - cell hyperplasia-54]	[GENOTYPE-Germline RET proto - oncogene-5]
+[PHENOTYPE-multiple endocrine neoplasia-14]	[GENOTYPE-Germline RET proto - oncogene-5]
+PS2502 The homozygosity of M694V mutation in the MEFV gene-9 is associated with arthritis-13 in Familial Mediterranean fever-17 patients .
+1
+[PHENOTYPE-arthritis-13]	[GENOTYPE-M694V mutation in the MEFV gene-9]
+PS2519 Achondrogenesis II - hypochondrogenesis and severe spondyloepiphyseal dysplasia congenita-9 are lethal forms of dwarfism-14 caused by dominant mutations in the type II collagen gene ( COL2A1 ) .
+2
+[PHENOTYPE-dwarfism-14]	[GENOTYPE-mutations in the type II collagen gene-24 ( COL2A1 )]
+[PHENOTYPE-spondyloepiphyseal dysplasia congenita-9]	[GENOTYPE-mutations in the type II collagen gene-24 ( COL2A1 )]
+PS2526 Auditory and vestibulo - ocular functions were examined in a Dutch family with autosomal dominantly inherited sensorineural hearing impairment-19 caused by a 208C > T mutation in the COCH gene , located in chromosome 14q12 - q13 ( DFNA9 ) .
+1
+[PHENOTYPE-hearing impairment-19]	[GENOTYPE-a 208C > T mutation in the COCH gene , located in chromosome 14q12 - q13 ( DFNA9 )]
+PS2536 Recent studies have implicated that the rs11614913 SNP in miR - 196a2-12 may be associated with susceptibility to lung cancer-20 , congenital heart disease-24 , breast cancer-27 , as well as reduced survival in non - small cell lung cancer-40 .
+4
+[PHENOTYPE-lung cancer-20]	[GENOTYPE-the rs11614913 SNP in miR - 196a2-12]
+[PHENOTYPE-breast cancer-27]	[GENOTYPE-the rs11614913 SNP in miR - 196a2-12]
+[PHENOTYPE-congenital heart disease-24]	[GENOTYPE-the rs11614913 SNP in miR - 196a2-12]
+[PHENOTYPE-non - small cell lung cancer-40]	[GENOTYPE-the rs11614913 SNP in miR - 196a2-12]
+PS2590 Endothelin - B receptor-4 ( EDNRB-6 ) signaling pathway is associated for Hirschsprung disease-14 .
+2
+[PHENOTYPE-Hirschsprung disease-14]	[GENOTYPE-EDNRB-6]
+[PHENOTYPE-Hirschsprung disease-14]	[GENOTYPE-Endothelin - B receptor-4]
+PS2637 We previously reported a familial G504S mutation in the type II collagen-12 ( COL2A1-14 ) gene resulting in Spondyloepiphyseal dysplasia-20 congenita .
+2
+[PHENOTYPE-Spondyloepiphyseal dysplasia-20]	[GENOTYPE-COL2A1-14]
+[PHENOTYPE-Spondyloepiphyseal dysplasia-20]	[GENOTYPE-type II collagen-12]
+PS2648 Severe pancreatic insufficiency-3 was associated with the presence of two Cystic fibrosisTR gene mutations-14 ( DeltaF508-16 , N1303K-18 , Cystic fibrosisTR dele 2-23 , 3 ( 21kb ) , G542X , 1717 - 1G - A , R533X , W1282X , 621GT , 2183AAG , R560T , 2184insA and DeltaI507 , G551D , 895T ) and mild insufficiency with the presence of at least one mutation ( R117H , 3171insC , A155P2 , 138insL , 296 + 1G - A , E92GK , E217G , 2789 + 5G - A . 3849 + 1kbC - T / 3849 + 1kbC - T ) genotype resulted in high elastase - 1 - values-112 .
+5
+[PHENOTYPE-pancreatic insufficiency-3]	[GENOTYPE-high elastase - 1 - values-112]
+[PHENOTYPE-pancreatic insufficiency-3]	[GENOTYPE-Cystic fibrosisTR gene mutations-14]
+[PHENOTYPE-pancreatic insufficiency-3]	[GENOTYPE-DeltaF508-16]
+[PHENOTYPE-pancreatic insufficiency-3]	[GENOTYPE-N1303K-18]
+[PHENOTYPE-pancreatic insufficiency-3]	[GENOTYPE-Cystic fibrosisTR dele 2-23]
+PS2650 OTX2 mutations are associated with severe ocular phenotypes and central nervous system abnormalities such as seizures-16 , short stature-19 and developmental delay , combined pituitary hormone deficiency-27 , structural abnormalities of the pituitary gland and early onset retinal dystrophy-39 .
+4
+[PHENOTYPE-seizures-16]	[GENOTYPE-OTX2 mutations]
+[PHENOTYPE-short stature-19]	[GENOTYPE-OTX2 mutations]
+[PHENOTYPE-pituitary hormone deficiency-27]	[GENOTYPE-OTX2 mutations]
+[PHENOTYPE-retinal dystrophy-39]	[GENOTYPE-OTX2 mutations]
+PS2651 P450c17 deficiency ( 17OHD ) , caused by mutation in CYP17A1 gene-12 , is characterized by severe hypertension - hypokalemia-20 , sexual infantilism in females , and pseudohermaphroditism-28 in males .
+2
+[PHENOTYPE-pseudohermaphroditism-28]	[GENOTYPE-mutation in CYP17A1 gene-12]
+[PHENOTYPE-hypertension - hypokalemia-20]	[GENOTYPE-mutation in CYP17A1 gene-12]
+PS2658 Congenital erythropoietic porphyria-3 is a rare inborn error of metabolism that results from a deficient activity of uroporphyrinogen III synthase-20 ( URO - synthase-24 ) .
+2
+[PHENOTYPE-erythropoietic porphyria-3]	[GENOTYPE-uroporphyrinogen III synthase-20]
+[PHENOTYPE-erythropoietic porphyria-3]	[GENOTYPE-URO - synthase-24]
+PS2687 X - linked myotubular myopathy-5 is a severe neuromuscular disease of infancy caused by mutations of myotubular myopathy1-18 , which encodes the phosphoinositide lipid phosphatase-25 , myotubularin .
+2
+[PHENOTYPE-myopathy-5]	[GENOTYPE-phosphoinositide lipid phosphatase-25]
+[PHENOTYPE-myopathy-5]	[GENOTYPE-mutations of myotubular myopathy1-18]
+PS2704 In patients with chronic systolic heart failure-7 , the chymase - 1 polymorphism was related to nonischemic etiology of heart failure-21 .
+2
+[PHENOTYPE-heart failure-7]	[GENOTYPE-chymase - 1 polymorphism]
+[PHENOTYPE-heart failure-21]	[GENOTYPE-chymase - 1 polymorphism]
+PS2740 Regarding unique symptoms in each case , congenital fibrosis-9 of the extraocular muscles found only in Case 1 may be caused by KIF21A deletion and hearing loss-27 and cleft palate-30 in Case 2 by COL2A1 defect .
+3
+[PHENOTYPE-cleft palate-30]	[GENOTYPE-COL2A1 defect]
+[PHENOTYPE-hearing loss-27]	[GENOTYPE-COL2A1 defect]
+[PHENOTYPE-congenital fibrosis-9]	[GENOTYPE-KIF21A deletion]
+PS2763 Association studies have reported that common single - nucleotide polymorphisms in KCNE1-12 and SCN5A-14 may predispose to Atrial fibrillation-19 .
+2
+[PHENOTYPE-Atrial fibrillation-19]	[GENOTYPE-SCN5A-14]
+[PHENOTYPE-Atrial fibrillation-19]	[GENOTYPE-KCNE1-12]
+PS2771 Heterozygous missense mutations of transient receptor potential vanilloid 4 channel-10 cause a spectrum of skeletal disorders , including brachyolmia-19 , spondylometaphyseal dysplasia-22 Kozlowski type , metatropic dysplasia-27 , parastremmatic dysplasia , and spondyloepimetaphyseal dysplasia Maroteaux type .
+3
+[PHENOTYPE-spondylometaphyseal dysplasia-22]	[GENOTYPE-vanilloid 4 channel-10]
+[PHENOTYPE-metatropic dysplasia-27]	[GENOTYPE-vanilloid 4 channel-10]
+[PHENOTYPE-brachyolmia-19]	[GENOTYPE-vanilloid 4 channel-10]
+PS2827 Mutations in the skeletal muscle alpha - actin gene ( ACTA1-11 ) cause a range of pathologically defined congenital myopathies-20 .
+2
+[PHENOTYPE-congenital myopathies-20]	[GENOTYPE-Mutations in the skeletal muscle alpha - actin gene]
+[PHENOTYPE-congenital myopathies-20]	[GENOTYPE-ACTA1-11]
+PS2839 There was also a significant correlation between p21-8 ( waf-10 ) loss and chronic active hepatitis ( P = 0 . 01 ) as well as between mdm2-28 , c - erbB2-32 and cirrhosis-34 ( P = 0 . 025 and 0 . 001 ) in hepatocellular carcinoma-48 cases .
+2
+[PHENOTYPE-cirrhosis-34]	[GENOTYPE-c - erbB2-32]
+[PHENOTYPE-cirrhosis-34]	[GENOTYPE-mdm2-28]
+PS2846 Mutations in FGFR1-3 and TWIST1-5 have been reported to affect the timing of calvarial suture fusion resulting in craniosynostosis-19 and facial abnormalities-22 .
+4
+[PHENOTYPE-craniosynostosis-19]	[GENOTYPE-FGFR1-3]
+[PHENOTYPE-craniosynostosis-19]	[GENOTYPE-TWIST1-5]
+[PHENOTYPE-facial abnormalities-22]	[GENOTYPE-FGFR1-3]
+[PHENOTYPE-facial abnormalities-22]	[GENOTYPE-TWIST1-5]
+PS2931 Hereditary cystathioninuria-2 is presumed to be caused by deficiency of the activity of cystathionine gamma - lyase-17 ( cystathionase-19 ; CTH EC 4 . 4 . 1 . 1-29 ) , which is normally required for the conversion of methionine into cysteine .
+3
+[PHENOTYPE-cystathioninuria-2]	[GENOTYPE-CTH EC 4 . 4 . 1 . 1-29]
+[PHENOTYPE-cystathioninuria-2]	[GENOTYPE-deficiency of the activity of cystathionine gamma - lyase-17]
+[PHENOTYPE-cystathioninuria-2]	[GENOTYPE-cystathionase-19]
+PS2934 Polymorphic expression of arylamine N-acetyltransferase ( EC 2 . 3 . 1 . 5 ) may be a differential risk factor in metabolic activation of arylamine carcinogens and susceptibility to cancers related to arylamine exposures.
+1
+[PHENOTYPE-cancers]	[GENOTYPE-Polymorphic expression of arylamine N-acetyltransferase ( EC 2 . 3 . 1 . 5 )]
+PS2959 Moreover , high - density lipoprotein cholesterol decrease-8 is not associated with elevated levels of LDL cholesterol-17 ( r = - 0 . 20 , NS ) , which is the primary characteristic feature of familial hypercholesterolemia-37 subjects .
+1
+[PHENOTYPE-familial hypercholesterolemia-37]	[GENOTYPE-LDL cholesterol-17]
+PS2989 Defects in the ryanodine receptor-5 ( RYR1-7 ) gene are associated with malignant hyperthermia-14 , an autosomal dominant disorder of skeletal muscle and one of the main causes of death resulting from anaesthesia-33 .
+2
+[PHENOTYPE-malignant hyperthermia-14]	[GENOTYPE-ryanodine receptor-5]
+[PHENOTYPE-malignant hyperthermia-14]	[GENOTYPE-RYR1-7]
+PS3009 Mutations in the high penetrance breast and ovarian cancer susceptibility gene BRCA1-12 account for a significant percentage of hereditary breast-20 and ovarian cancer-23 cases .
+2
+[PHENOTYPE-breast-20]	[GENOTYPE-BRCA1-12]
+[PHENOTYPE-ovarian cancer-23]	[GENOTYPE-BRCA1-12]
+PS3026 Gene - gene interaction analysis revealed significant additive effect of DBH rs1108580-12 and DRD4 rs1800955-15 with significant main effects of DRD4 exon3 VNTR-23 , DAT1 3 ' UTR and intron 8 VNTR-32 , MAOA u - VNTR-37 , rs6323-39 , COMT rs4680-42 , rs362204-44 , DBH rs1611115-47 and rs1108580 thereby pointing towards a strong association of these markers with attention deficit hyperactivity disorder-63 .
+9
+[PHENOTYPE-attention deficit hyperactivity disorder-63]	[GENOTYPE-rs362204-44]
+[PHENOTYPE-attention deficit hyperactivity disorder-63]	[GENOTYPE-MAOA u - VNTR-37]
+[PHENOTYPE-attention deficit hyperactivity disorder-63]	[GENOTYPE-rs6323-39]
+[PHENOTYPE-attention deficit hyperactivity disorder-63]	[GENOTYPE-DRD4 exon3 VNTR-23]
+[PHENOTYPE-attention deficit hyperactivity disorder-63]	[GENOTYPE-DRD4 rs1800955-15]
+[PHENOTYPE-attention deficit hyperactivity disorder-63]	[GENOTYPE-COMT rs4680-42]
+[PHENOTYPE-attention deficit hyperactivity disorder-63]	[GENOTYPE-DBH rs1611115-47]
+[PHENOTYPE-attention deficit hyperactivity disorder-63]	[GENOTYPE-DAT1 3 ' UTR and intron 8 VNTR-32]
+[PHENOTYPE-attention deficit hyperactivity disorder-63]	[GENOTYPE-DBH rs1108580-12]
+PS3033 Carbonic anhydrase II deficiency syndrome characterized by osteopetrosis-8 , renal tubular acidosis-12 , and cerebral calcifications-16 is caused by mutations in the carbonic anhydrase 2-25 gene .
+3
+[PHENOTYPE-renal tubular acidosis-12]	[GENOTYPE-mutations in the carbonic anhydrase 2-25]
+[PHENOTYPE-cerebral calcifications-16]	[GENOTYPE-mutations in the carbonic anhydrase 2-25]
+[PHENOTYPE-osteopetrosis-8]	[GENOTYPE-mutations in the carbonic anhydrase 2-25]
+PS3041 The association of the rare hereditary cancer syndrome , multiple endocrine neoplasia type 2a with Hirschsprung ' s disease-19 , both linked to germline mutations in the RET proto - oncogene-31 , has been reported recently .
+2
+[PHENOTYPE-multiple endocrine neoplasia type 2a with Hirschsprung ' s disease-19]	[GENOTYPE-mutations in the RET proto - oncogene-31]
+[PHENOTYPE-rare hereditary cancer syndrome]	[GENOTYPE-mutations in the RET proto - oncogene-31]
+PS3047 In conclusion , childhood obesity-5 contributes to higher plasminogen activator inhibitor - 1-13 and tumor necrosis factor - alpha-19 and lower transforming growth factor beta-25 levels .
+3
+[PHENOTYPE-obesity-5]	[GENOTYPE-tumor necrosis factor - alpha-19]
+[PHENOTYPE-obesity-5]	[GENOTYPE-lower transforming growth factor beta-25]
+[PHENOTYPE-obesity-5]	[GENOTYPE-higher plasminogen activator inhibitor - 1-13]
+PS3050 Dyschromatosis symmetrica hereditaria is an autosomal dominant pigmentary genodermatosis characterized by hyperpigmented and hypopigmented macules-15 of on the extremities and caused by the mutations in the ADAR gene-28 ( also called DSRAD-32 ) encoding for RNA - specific adenosine deaminase-40 .
+6
+[PHENOTYPE-hypopigmented macules-15]	[GENOTYPE-RNA - specific adenosine deaminase-40]
+[PHENOTYPE-Dyschromatosis symmetrica hereditaria]	[GENOTYPE-DSRAD-32]
+[PHENOTYPE-hypopigmented macules-15]	[GENOTYPE-DSRAD-32]
+[PHENOTYPE-Dyschromatosis symmetrica hereditaria]	[GENOTYPE-ADAR gene-28]
+[PHENOTYPE-hypopigmented macules-15]	[GENOTYPE-ADAR gene-28]
+[PHENOTYPE-Dyschromatosis symmetrica hereditaria]	[GENOTYPE-RNA - specific adenosine deaminase-40]
+PS3051 Heterozygous germline mutations of the tumor - suppressor gene multiple endocrine neoplasia type 1-14 are responsible for multiple endocrine neoplasia-20 type 1 , a dominantly inherited familial cancer-28 syndrome characterized by pituitary , parathyroid , and enteropancreatic tumors-38 .
+3
+[PHENOTYPE-enteropancreatic tumors-38]	[GENOTYPE-endocrine neoplasia type 1-14]
+[PHENOTYPE-cancer-28]	[GENOTYPE-endocrine neoplasia type 1-14]
+[PHENOTYPE-neoplasia-20]	[GENOTYPE-endocrine neoplasia type 1-14]
+PS3100 In conclusion , Angiotensin - converting enzyme-7 activity , but not Angiotensin - converting enzyme-15 polymorphisms , was associated with the degree of myocardial hypertrophy-25 in the patients with hypertrophic cardiomyopathy-31 .
+4
+[PHENOTYPE-hypertrophic cardiomyopathy-31]	[GENOTYPE-Angiotensin - converting enzyme-15]
+[PHENOTYPE-hypertrophic cardiomyopathy-31]	[GENOTYPE-Angiotensin - converting enzyme-7]
+[PHENOTYPE-myocardial hypertrophy-25]	[GENOTYPE-Angiotensin - converting enzyme-7]
+[PHENOTYPE-myocardial hypertrophy-25]	[GENOTYPE-Angiotensin - converting enzyme-15]
+PS3107 Activating mutations of the p110 alpha subunit of PI3K ( PIK3CA ) oncogene-13 have been identified in a broad spectrum of malignant tumors-23 .
+1
+[PHENOTYPE-malignant tumors-23]	[GENOTYPE-p110 alpha subunit of PI3K ( PIK3CA ) oncogene-13]
+PS3109 For instance , mutations of the gsp-7 and thyroid - stimulating hormone receptor genes-14 are associated with benign hyperfunctioning thyroid nodules and adenomas while alterations of other specific genes , such as oncogenic tyrosine kinase-35 alterations ( RET-38 / PTC-40 , TRK-42 ) in papillary carcinoma-46 and the newly discovered PAX8-51 / peroxisome proliferator - activated receptor gamma-58 rearrangement , are distinctive features of cancer-65 .
+10
+[PHENOTYPE-cancer-65]	[GENOTYPE-PAX8-51]
+[PHENOTYPE-cancer-65]	[GENOTYPE-RET-38]
+[PHENOTYPE-cancer-65]	[GENOTYPE-TRK-42]
+[PHENOTYPE-papillary carcinoma-46]	[GENOTYPE-TRK-42]
+[PHENOTYPE-papillary carcinoma-46]	[GENOTYPE-RET-38]
+[PHENOTYPE-papillary carcinoma-46]	[GENOTYPE-oncogenic tyrosine kinase-35]
+[PHENOTYPE-cancer-65]	[GENOTYPE-PTC-40]
+[PHENOTYPE-cancer-65]	[GENOTYPE-oncogenic tyrosine kinase-35]
+[PHENOTYPE-cancer-65]	[GENOTYPE-peroxisome proliferator - activated receptor gamma-58]
+[PHENOTYPE-papillary carcinoma-46]	[GENOTYPE-PTC-40]
+PS3179 Genetic mutations resulting in decreased neuronal Na ( + ) , K ( + ) - ATPase-17 ( sodium - potassium adenosine triphosphatase-23 ) activity may put individuals at risk for depression-32 given that decreased Na ( + ) , K ( + ) - ATPase-46 activity is observed in depressive disorders-52 and animal models of depression-57 .
+4
+[PHENOTYPE-depressive disorders-52]	[GENOTYPE-decreased Na ( + ) , K ( + ) - ATPase-46]
+[PHENOTYPE-depression-57]	[GENOTYPE-decreased Na ( + ) , K ( + ) - ATPase-46]
+[PHENOTYPE-depression-32]	[GENOTYPE-decreased neuronal Na ( + ) , K ( + ) - ATPase-17]
+[PHENOTYPE-depression-32]	[GENOTYPE-sodium - potassium adenosine triphosphatase-23]
+PS3205 FOXP1-1 was more highly expressed in familial breast cancers-9 compared with sporadic cancers-13 for luminal ( p = 0 . 021 ) and basal ( p < 0 . 001 ) , but not HER2-35 and null phenotypes ( both p > 0 . 05 ) .
+4
+[PHENOTYPE-breast cancers-9]	[GENOTYPE-HER2-35]
+[PHENOTYPE-sporadic cancers-13]	[GENOTYPE-HER2-35]
+[PHENOTYPE-breast cancers-9]	[GENOTYPE-FOXP1-1]
+[PHENOTYPE-sporadic cancers-13]	[GENOTYPE-FOXP1-1]
+PS3221 Variants in HTRA1-3 , CFH-5 , and C2-8 were also associated with polypoidal choroidal vasculopathy-15 .
+3
+[PHENOTYPE-polypoidal choroidal vasculopathy-15]	[GENOTYPE-C2-8]
+[PHENOTYPE-polypoidal choroidal vasculopathy-15]	[GENOTYPE-HTRA1-3]
+[PHENOTYPE-polypoidal choroidal vasculopathy-15]	[GENOTYPE-CFH-5]
+PS3309 Malignant hyperthermia-2 is associated , in the majority of cases , with mutations in RYR1-15 , the gene encoding the skeletal muscle ryanodine receptor-24 .
+2
+[PHENOTYPE-Malignant hyperthermia-2]	[GENOTYPE-skeletal muscle ryanodine receptor-24]
+[PHENOTYPE-Malignant hyperthermia-2]	[GENOTYPE-mutations in RYR1-15]
+PS3329 Parasitic worm infection , allergy and asthma-7 involve increased IgE-10 production , eosinophil activity , mucus secretion and smooth muscle reactivity , effected through Th - 2-27 immune signalling .
+2
+[PHENOTYPE-asthma-7]	[GENOTYPE-Th - 2-27]
+[PHENOTYPE-asthma-7]	[GENOTYPE-IgE-10]
+PS3609 In addition , we identified several CAPN10 alleles-8 associated to phenotypic differences observed between polycystic ovaries-16 patients , such as the presence of hypercholesterolemia-24 ( haplotype 1121 , P = 0 . 005 ) , presence of hyperandrogenic features ( P = 0 . 05 ) , and familial cancer-50 incidence ( haplotype 1111 , P = 0 . 0005 ) .
+2
+[PHENOTYPE-hypercholesterolemia-24]	[GENOTYPE-CAPN10 alleles-8]
+[PHENOTYPE-cancer-50]	[GENOTYPE-CAPN10 alleles-8]
+PS3405 Some of the severe ( the majority of patients affected with either the severe form ) spinal muscular atrophy-19 cases correlated with the extent of deletions in the SMN-29 , NAIP-31 and P44 genes-34 or the dosage of SMN gene-40 when both SMN1-43 and SMN2-45 are deleted .
+6
+[PHENOTYPE-spinal muscular atrophy-19]	[GENOTYPE-SMN-29]
+[PHENOTYPE-spinal muscular atrophy-19]	[GENOTYPE-SMN2-45]
+[PHENOTYPE-spinal muscular atrophy-19]	[GENOTYPE-SMN gene-40]
+[PHENOTYPE-spinal muscular atrophy-19]	[GENOTYPE-P44 genes-34]
+[PHENOTYPE-spinal muscular atrophy-19]	[GENOTYPE-SMN1-43]
+[PHENOTYPE-spinal muscular atrophy-19]	[GENOTYPE-NAIP-31]
+PS3434 Mutations in the gene encoding filaggrin-6 have been identified as the cause of ichthyosis vulgaris-15 and have been shown to be major predisposing factors for atopic eczema-27 , initially in European populations .
+2
+[PHENOTYPE-ichthyosis vulgaris-15]	[GENOTYPE-Mutations in the gene encoding filaggrin-6]
+[PHENOTYPE-atopic eczema-27]	[GENOTYPE-Mutations in the gene encoding filaggrin-6]
+PS3449 Mucopolysaccharidosis type VI is an autosomal recessive lysosomal storage disease caused by a deficiency of N - acetylgalactosamine - 4 - sulphatase-22 ( arylsulfatase B-25 , ASB-27 ) .
+3
+[PHENOTYPE-Mucopolysaccharidosis type VI]	[GENOTYPE-N - deficiency of N - acetylgalactosamine - 4 - sulphatase-22]
+[PHENOTYPE-Mucopolysaccharidosis type VI]	[GENOTYPE-arylsulfatase B-25]
+[PHENOTYPE-Mucopolysaccharidosis type VI]	[GENOTYPE-ASB-27]
+PS3454 Mucopolysaccharidosis VI is a rare autosomal recessive disorder caused by a deficiency of N - acetylgalactosamine - 4 - sulfatase-20 ( ARSB-22 ) .
+2
+[PHENOTYPE-Mucopolysaccharidosis VI]	[GENOTYPE-ARSB-22]
+[PHENOTYPE-Mucopolysaccharidosis VI]	[GENOTYPE-deficiency of N - acetylgalactosamine - 4 - sulfatase-20]
+PS3485 The causative gene for JPrimary lateral sclerosis-7 was found to be ALS2-12 , which is also responsible for a recessive form of amyotrophic lateral sclerosis-25 , for infantile onset ascending hereditary spastic paralysis-33 and for a form of complicated hereditary spastic paraplegia-42 .
+4
+[PHENOTYPE-JPrimary lateral sclerosis-7]	[GENOTYPE-ALS2-12]
+[PHENOTYPE-spastic paralysis-33]	[GENOTYPE-ALS2-12]
+[PHENOTYPE-spastic paraplegia-42]	[GENOTYPE-ALS2-12]
+[PHENOTYPE-amyotrophic lateral sclerosis-25]	[GENOTYPE-ALS2-12]
+PS3573 Interleukin - 6-3 , an inflammatory cytokine , is thought to play a role in neurodegeneration of the central nervous system and has been associated with increased amyloid precursor protein-30 expression in vitro and greater cognitive decline-37 .
+1
+[PHENOTYPE-cognitive decline-37]	[GENOTYPE-Interleukin - 6-3]
+PS3585 Mutations in the skeletal muscle alpha - actin gene-9 ( ACTA1-11 ) associated with congenital myopathy-16 with excess of thin myofilaments , nemaline myopathy-24 and intranuclear rod myopathy-28 were first described in 1999 .
+6
+[PHENOTYPE-congenital myopathy-16]	[GENOTYPE-ACTA1-11]
+[PHENOTYPE-nemaline myopathy-24]	[GENOTYPE-Mutations in the skeletal muscle alpha - actin gene-9]
+[PHENOTYPE-nemaline myopathy-24]	[GENOTYPE-ACTA1-11]
+[PHENOTYPE-intranuclear rod myopathy-28]	[GENOTYPE-ACTA1-11]
+[PHENOTYPE-congenital myopathy-16]	[GENOTYPE-Mutations in the skeletal muscle alpha - actin gene-9]
+[PHENOTYPE-intranuclear rod myopathy-28]	[GENOTYPE-Mutations in the skeletal muscle alpha - actin gene-9]
+S1 Previous analysis of data from 92 families , ascertained through a parent with asthma , showed evidence for recessive inheritance-20 of high IgE levels-24 with linkage to chromosome 5q-29 .
+2
+[PHENOTYPE-high IgE levels-24]	[GENOTYPE-chromosome 5q-29]
+[PHENOTYPE-recessive inheritance-20]	[GENOTYPE-chromosome 5q-29]
+S4 For type 1 diabetes it is clear that multiple islet molecules-11 are the target of autoimmunity-16 in man and animal models 1 , 2 .
+1
+[PHENOTYPE-autoimmunity-16]	[GENOTYPE-multiple islet molecules-11]
+S5 It is not clear whether any of the target molecules-10 are essential for the destruction of islet beta cells-19 .
+0
+S6 Here we show that the proinsulin / insulin molecules-9 have a sequence that is a primary target of the autoimmunity-20 that causes diabetes of the non - obese diabetic ( NOD ) mouse .
+1
+[PHENOTYPE-autoimmunity-20]	[GENOTYPE-proinsulin / insulin molecules-9]
+S9 The adipocyte fatty acid –binding protein-6 aP2-7 is required in allergic airway airway-13
+2
+[PHENOTYPE-allergic airway airway-13]	[GENOTYPE-aP2-7]
+[PHENOTYPE-allergic airway airway-13]	[GENOTYPE-adipocyte fatty acid –binding protein-6]
+S10 The adipocyte fatty acid –binding protein-6 aP2-7 regulates systemic glucose-10 and lipid metabolism-13 .
+4
+[PHENOTYPE-lipid metabolism-13]	[GENOTYPE-aP2-7]
+[PHENOTYPE-systemic glucose-10]	[GENOTYPE-adipocyte fatty acid –binding protein-6]
+[PHENOTYPE-systemic glucose-10]	[GENOTYPE-aP2-7]
+[PHENOTYPE-lipid metabolism-13]	[GENOTYPE-adipocyte fatty acid –binding protein-6]
+S11 We report that aP2-4 , in addition to being abundantly expressed by adipocytes , is also expressed by human airway epithelial cells and shows a striking upregulation-27 following stimulation of epithelial cells with the Th2 cytokines-36 IL - 4-39 and IL - 13-43 .
+4
+[PHENOTYPE-striking upregulation-27]	[GENOTYPE-aP2-4]
+[PHENOTYPE-striking upregulation-27]	[GENOTYPE-IL - 4-39]
+[PHENOTYPE-striking upregulation-27]	[GENOTYPE-IL - 13-43]
+[PHENOTYPE-striking upregulation-27]	[GENOTYPE-Th2 cytokines-36]
+S12 Regulation of aP2 mRNA expression-5 by Th2 cytokines-8 was highly dependent on STAT6-13 , a transcription factor-17 with a major regulatory role in allergic inflammation-25 .
+6
+[PHENOTYPE-allergic inflammation-25]	[GENOTYPE-STAT6-13]
+[PHENOTYPE-Regulation of aP2 mRNA expression-5]	[GENOTYPE-transcription factor-17]
+[PHENOTYPE-allergic inflammation-25]	[GENOTYPE-transcription factor-17]
+[PHENOTYPE-Regulation of aP2 mRNA expression-5]	[GENOTYPE-STAT6-13]
+[PHENOTYPE-Regulation of aP2 mRNA expression-5]	[GENOTYPE-Th2 cytokines-8]
+[PHENOTYPE-allergic inflammation-25]	[GENOTYPE-Th2 cytokines-8]
+S14 T cell priming-3 was unaffected by aP2 deficiency-8 , suggesting that aP2-12 was acting locally within the lung , and analysis of bone marrow chimeras implicated non - hematopoietic cells , most likely bronchial epithelial cells , as the site of action of aP2-44 in allergic airway inflammation-48 .
+2
+[PHENOTYPE-allergic airway inflammation-48]	[GENOTYPE-aP2-44]
+[PHENOTYPE-allergic airway inflammation-48]	[GENOTYPE-aP2-12]
+S22 Here we report the association of RA susceptibility-8 with the minor allele-12 of a missense SNP in PTPN22-18 ( discovery - study allelic P = 6 . 6 ×10 - 4 ; replication - study allelic P = 5 . 6 ×10 - 8 ) , which encodes a hematopoietic - specific protein tyrosine phosphatase-55 also known as “Lyp”-59 .
+4
+[PHENOTYPE-RA susceptibility-8]	[GENOTYPE-hematopoietic - specific protein tyrosine phosphatase-55]
+[PHENOTYPE-RA susceptibility-8]	[GENOTYPE-PTPN22-18]
+[PHENOTYPE-RA susceptibility-8]	[GENOTYPE-minor allele-12]
+[PHENOTYPE-RA susceptibility-8]	[GENOTYPE-“Lyp”-59]
+S23 We show that the risk allele-6 , which is present in ∼17 % of white individuals from the general population and in ∼28 % of white individuals with RA , disrupts the P1 proline - rich motif-37 that is important for interaction with Csk-44 , potentially altering these proteins-49 ' normal function as negative regulators of T - cell activation-60 .
+3
+[PHENOTYPE-T - cell activation-60]	[GENOTYPE-risk allele-6]
+[PHENOTYPE-T - cell activation-60]	[GENOTYPE-Csk-44]
+[PHENOTYPE-T - cell activation-60]	[GENOTYPE-proteins-49]
+S24 IL - 23 is essential for T cell –mediated colitis and promotes inflammation-13 via IL - 17-17 and IL - --21
+2
+[PHENOTYPE-inflammation-13]	[GENOTYPE-IL - 17-17]
+[PHENOTYPE-inflammation-13]	[GENOTYPE-IL - --21]
+S25 In early clinical trials as well as in animal models , IL - 12-14 has been implicated as a major mediator of these diseases based on the ability of anti - p40 mAb treatment to reverse intestinal inflammation-38 .
+0
+S26 To determine how IL - 23-6 contributes to intestinal inflammation-10 , we studied the disease susceptibility in the absence of either IL - 23-24 or IL - 12-28 in this model , as well as the ability of recombinant IL - 23-42 to exacerbate IBD induced by T cell transfer-50 .
+6
+[PHENOTYPE-intestinal inflammation-10]	[GENOTYPE-IL - 23-24]
+[PHENOTYPE-intestinal inflammation-10]	[GENOTYPE-IL - 23-6]
+[PHENOTYPE-T cell transfer-50]	[GENOTYPE-IL - 23-24]
+[PHENOTYPE-T cell transfer-50]	[GENOTYPE-IL - 23-6]
+[PHENOTYPE-T cell transfer-50]	[GENOTYPE-IL - 23-42]
+[PHENOTYPE-intestinal inflammation-10]	[GENOTYPE-IL - 23-42]
+S27 Our study shows that in these models , IL - 23-11 is essential for manifestation of chronic intestinal inflammation-19 , whereas IL - 12-24 is not .
+1
+[PHENOTYPE-chronic intestinal inflammation-19]	[GENOTYPE-IL - 23-11]
+S28 Systemic lupus erythematosus - associated defects in the inhibitory receptor-10 FcγRIIb-11 reduce susceptibility to malaria.
+2
+[PHENOTYPE-susceptibility to malaria]	[GENOTYPE-inhibitory receptor-10]
+[PHENOTYPE-susceptibility to malaria]	[GENOTYPE-FcγRIIb-11]
+S30 In vitro , the human lupus associated FcγRIIb-8 polymorphism enhances phagocytosis of Plasmodium falciparum - infected erythrocytes-17 .
+1
+[PHENOTYPE-phagocytosis of Plasmodium falciparum - infected erythrocytes-17]	[GENOTYPE-FcγRIIb-8]
+S31 These results demonstrate that FcγRIIb-5 is important in controlling the immune response to malarial parasites-15 and suggests that the higher frequency of human FcγRIIb-24 polymorphisms predisposing to SLE in Asians and Africans may be maintained because these variants-38 reduce susceptibility to malaria-42 .
+2
+[PHENOTYPE-susceptibility to malaria-42]	[GENOTYPE-variants-38]
+[PHENOTYPE-immune response to malarial parasites-15]	[GENOTYPE-FcγRIIb-5]
+S34 Finally , 10 of the regions-6 showing evidence for linkage in the Hutterites have shown evidence of linkage to related phenotypes-21 in other genome screens , suggesting that these regions-30 may contain common alleles-34 that have relatively large effects on asthma and atopy phenotypes-44 in diverse populations .
+2
+[PHENOTYPE-related phenotypes-21]	[GENOTYPE-common alleles-34]
+[PHENOTYPE-asthma and atopy phenotypes-44]	[GENOTYPE-common alleles-34]
+S36 An increasing number of studies suggest the importance of antibodies-10 in the pathogenesis-13 of most systemic and organ - specific autoimmune diseases , although there is considerable controversy over the precise role of the autoantibodies-35 involved .
+2
+[PHENOTYPE-pathogenesis-13]	[GENOTYPE-autoantibodies-35]
+[PHENOTYPE-pathogenesis-13]	[GENOTYPE-antibodies-10]
+S39 Although BBS proteins-3 were not required for ciliogenesis-8 , their loss caused structural defects in a fraction of cilia covering mouse airway epithelia .
+0
+S43 The cytokines B lymphocyte stimulator-5 ( BLyS-7 ) and a proliferation - inducing ligand-14 ( APRIL-16 ) enhance autoimmune disease by sustaining B cell activation-25 .
+4
+[PHENOTYPE-B cell activation-25]	[GENOTYPE-B lymphocyte stimulator-5]
+[PHENOTYPE-B cell activation-25]	[GENOTYPE-BLyS-7]
+[PHENOTYPE-B cell activation-25]	[GENOTYPE-APRIL-16]
+[PHENOTYPE-B cell activation-25]	[GENOTYPE-a proliferation - inducing ligand-14]
+S49 A strong influence of non - MHC genes-8 was also suggested by the variability of arthritis susceptibility-17 among different strains with the same MHC haplotype-25 ; the most susceptible background was the DA and the least susceptible was the E3 .
+1
+[PHENOTYPE-arthritis susceptibility-17]	[GENOTYPE-non - MHC genes-8]
+S57 Subjects with the TLR5 stop codon-6 produced significantly lower levels of proinflammatory cytokines-13 in comparison with individuals with the wild - type genotype-23 .
+1
+[PHENOTYPE-significantly lower levels of proinflammatory cytokines-13]	[GENOTYPE-TLR5 stop codon-6]
+S60 Evidence of genetic involvement includes : associations with HLA - DR3-11 , HLA - DR2-15 , Fcγ receptors ( FcγR ) IIA and IIIA-24 , and hereditary complement component deficiencies-30 , as well as familial aggregation , monozygotic twin concordance > 20 % , λ s > 10 , purported linkage at 1q41 –42-54 , and inbred mouse strains that consistently develop lupus .
+3
+[PHENOTYPE-hereditary complement component deficiencies-30]	[GENOTYPE-Fcγ receptors ( FcγR ) IIA and IIIA-24]
+[PHENOTYPE-hereditary complement component deficiencies-30]	[GENOTYPE-HLA - DR2-15]
+[PHENOTYPE-hereditary complement component deficiencies-30]	[GENOTYPE-HLA - DR3-11]
+S61 Several of the regions-4 that showed evidence for nominal significance ( P < . 05 ) in our data set had previously been implicated in RA ( D16S516-28 and D17S1301-30 ) or in other diseases of an autoimmune nature , including systemic lupus erythematosus ( D1S235-46 ) , inflammatory bowel disease ( D4S1647-53 , D5S1462-55 , and D16S516-58 ) , multiple sclerosis ( D12S1052-64 ) , and ankylosing spondylitis ( D16S516-71 ) .
+6
+[PHENOTYPE-inflammatory bowel disease]	[GENOTYPE-D4S1647-53]
+[PHENOTYPE-multiple sclerosis]	[GENOTYPE-D12S1052-64]
+[PHENOTYPE-ankylosing spondylitis]	[GENOTYPE-D16S516-71]
+[PHENOTYPE-inflammatory bowel disease]	[GENOTYPE-D5S1462-55]
+[PHENOTYPE-systemic lupus erythematosus]	[GENOTYPE-D1S235-46]
+[PHENOTYPE-inflammatory bowel disease]	[GENOTYPE-D16S516-58]
+S63 We investigated the interactions between day care exposure in the 1st 6 month of life and genotypes for 72 polymorphisms at 45 candidate loci and their effects on cytokine response profiles-31 and on the development of atopic phenotypes-38 in the 1st year of life in the Childhood Onset of Asthma ( COAST ) cohort of children .
+2
+[PHENOTYPE-atopic phenotypes-38]	[GENOTYPE-72 polymorphisms]
+[PHENOTYPE-cytokine response profiles-31]	[GENOTYPE-72 polymorphisms]
+S65 Genome - wide linkage searches of autoimmune and inflammatory / immune disorders have identified a large number of non - major histocompatibility complex loci-24 that collectively contribute to disease susceptibility-30 .
+1
+[PHENOTYPE-disease susceptibility-30]	[GENOTYPE-non - major histocompatibility complex loci-24]
+S67 Despite failure to replicate the previous evidence for linkage on chromosome 12 , the results described herein indicate the need to further investigate the potential role of this locus in susceptibility to ulcerative colitis-34 .
+1
+[PHENOTYPE-susceptibility to ulcerative colitis-34]	[GENOTYPE-chromosome 12]
+S68 Among the glycoprotein hormone receptors , only the TSHR-9 undergoes intramolecular cleavage-12 into disulfide - linked subunits with consequent shedding-20 of some of the extracellular , autoantibody - binding A subunits-31 .
+2
+[PHENOTYPE-intramolecular cleavage-12]	[GENOTYPE-TSHR-9]
+[PHENOTYPE-shedding-20]	[GENOTYPE-TSHR-9]
+S70 SLE like syndrome and functional deficiency-6 of C1q-8 in members of a large family .
+0
+S73 Genetic linkage of familial granulomatous inflammatory arthritis , skin rash-10 , and uveitis to chromosome 16-16 .
+1
+[PHENOTYPE-skin rash-10]	[GENOTYPE-chromosome 16-16]
+S76 The best - fitting model of shared components of variance indicated that 8 % of the genetic component-18 of obesity-20 is shared with asthma .
+1
+[PHENOTYPE-obesity-20]	[GENOTYPE-genetic component-18]
+S79 To explore its role in human disease , we analyzed 1 , 416 individuals from 258 Caucasian and 142 Chinese lupus simplex families and demonstrated that a common three - single - nucleotide polymorphism CR2 haplotype-36 ( rs3813946 , rs1048971 , rs17615 ) was associated with lupus susceptibility-48 ( P = 0 . 00001 ) with a 1 . 54 - fold increased risk for the development of disease .
+1
+[PHENOTYPE-lupus susceptibility-48]	[GENOTYPE-three - single - nucleotide polymorphism CR2 haplotype-36]
+S85 Linkage of asthma and related phenotypes-6 to chromosome 6p21-9 has been reported in seven genome screens , making it the most replicated region-23 of the genome .
+1
+[PHENOTYPE-asthma and related phenotypes-6]	[GENOTYPE-chromosome 6p21-9]
+S87 Interindividual gene-2 copy - number variation ( CNV ) of complement component C4-13 and its associated polymorphisms in gene-19 size ( long and short ) and protein isotypes-28 ( C4A-30 and C4B-32 ) probably lead to different susceptibilities to autoimmune disease-41 .
+6
+[PHENOTYPE-susceptibilities to autoimmune disease-41]	[GENOTYPE-gene-2]
+[PHENOTYPE-susceptibilities to autoimmune disease-41]	[GENOTYPE-protein isotypes-28]
+[PHENOTYPE-susceptibilities to autoimmune disease-41]	[GENOTYPE-C4A-30]
+[PHENOTYPE-susceptibilities to autoimmune disease-41]	[GENOTYPE-gene-19]
+[PHENOTYPE-susceptibilities to autoimmune disease-41]	[GENOTYPE-C4B-32]
+[PHENOTYPE-susceptibilities to autoimmune disease-41]	[GENOTYPE-complement component C4-13]
+S88 The risk of SLE disease susceptibility-6 significantly increased among subjects with only two copies of total C4-17 ( patients 9 . 3 % ; unrelated controls 1 . 5 % ; odds ratio [ OR ] = 6 . 514 ; P = . 00002 ) but decreased in those with 5 copies of C4-55 ( patients 5 . 79 % ; controls 12 % ; OR = 0 . 466 ; P = . 016 ) .
+2
+[PHENOTYPE-SLE disease susceptibility-6]	[GENOTYPE-C4-55]
+[PHENOTYPE-SLE disease susceptibility-6]	[GENOTYPE-C4-17]
+S91 TYK2-1 binds to the type I IFN receptor complex-9 and IRF5-11 is a regulator of type I IFN gene expression-20 .
+1
+[PHENOTYPE-type I IFN gene expression-20]	[GENOTYPE-IRF5-11]
+S95 Furthermore , ICOS-3 regulates the in vitro and in vivo expression of IL - 17-15 , a proinflammatory cytokine implicated in rheumatoid arthritis .
+1
+[PHENOTYPE-expression of IL - 17-15]	[GENOTYPE-ICOS-3]
+S97 The 2p25 . 1 region-5 was detected for the FCHL trait-11 , and the 9p23-15 and 16q24 . 1 regions-20 were detected for the low high - density lipoprotein cholesterol ( HDL - C ) trait-36 .
+3
+[PHENOTYPE-low high - density lipoprotein cholesterol ( HDL - C ) trait-36]	[GENOTYPE-16q24 . 1 regions-20]
+[PHENOTYPE-low high - density lipoprotein cholesterol ( HDL - C ) trait-36]	[GENOTYPE-9p23-15]
+[PHENOTYPE-FCHL trait-11]	[GENOTYPE-2p25 . 1 region-5]
+S100 Apart from rare monogenic deficiencies-5 of complement factors-8 , where lupuslike disease may occur in association with other autoimmune diseases or high susceptibility to bacterial infections-26 , its etiology is multifactorial in nature .
+1
+[PHENOTYPE-high susceptibility to bacterial infections-26]	[GENOTYPE-complement factors-8]
+S103 Systemic lupus erythematosus ( SLE ) is an autoimmune disease characterized by a loss of immunologic tolerance-17 to a multitude of self - antigens-24 .
+0
+S104 Epidemiological data suggest an important role for genes in the etiology of lupus , and previous genetic studies have implicated the HLA locus-23 , complement genes-26 , and low - affinity IgG ( Fcγ ) receptors-36 in SLE pathogenesis-39 .
+3
+[PHENOTYPE-SLE pathogenesis-39]	[GENOTYPE-complement genes-26]
+[PHENOTYPE-SLE pathogenesis-39]	[GENOTYPE-low - affinity IgG ( Fcγ ) receptors-36]
+[PHENOTYPE-SLE pathogenesis-39]	[GENOTYPE-HLA locus-23]
+S105 The nuclear receptors DAX1-4 ( NR0B1-6 ) and steroidogenic factor - 1-12 ( SF1-14 / Ad4BP-16 , NR5A1-18 ) play an important role in adrenal development-26 and function , and mutations in these transcription factors have been found in patients with adrenal hypoplasia .
+6
+[PHENOTYPE-adrenal development-26]	[GENOTYPE-steroidogenic factor - 1-12]
+[PHENOTYPE-adrenal development-26]	[GENOTYPE-NR5A1-18]
+[PHENOTYPE-adrenal development-26]	[GENOTYPE-Ad4BP-16]
+[PHENOTYPE-adrenal development-26]	[GENOTYPE-DAX1-4]
+[PHENOTYPE-adrenal development-26]	[GENOTYPE-SF1-14]
+[PHENOTYPE-adrenal development-26]	[GENOTYPE-NR0B1-6]
+S106 SF1 mutations-2 causing adrenal failure were found only in two patients with 46 , XY gonadal dysgenesis-17 .
+1
+[PHENOTYPE-46 , XY gonadal dysgenesis-17]	[GENOTYPE-SF1 mutations-2]
+S107 Thus , this segment-4 of the genome represents a candidate region-11 for genes that determine susceptibility to bronchial hyperresponsiveness and atopy-21 in animal models .
+0
+S109 The expression of IL - 9-6 was markedly reduced in bronchial hyporesponsive mice , and the level of expression was determined by sequences within the qualitative trait locus-28 ( QTL-30 ) .
+0
+S114 In conclusion , a lower HBD - 2 gene-9 copy number in the beta - defensin locus predisposes to colonic CD , most likely through diminished beta - defensin expression-30 .
+1
+[PHENOTYPE-diminished beta - defensin expression-30]	[GENOTYPE-HBD - 2 gene-9]
+S121 Our original association study focused on the role of IBD5-10 in CD ; we next explored the potential contribution of this locus-22 to UC susceptibility-25 in 187 German trios .
+2
+[PHENOTYPE-UC susceptibility-25]	[GENOTYPE-locus-22]
+[PHENOTYPE-UC susceptibility-25]	[GENOTYPE-IBD5-10]
+S128 CARD15-1 conferred susceptibility to PsA-5 independent of HLA - Cw * 0602-12 .
+1
+[PHENOTYPE-susceptibility to PsA-5]	[GENOTYPE-CARD15-1]
+S134 These results suggest that several major genes-7 , plus residual genetic effects , regulate total serum IgE levels-18 .
+1
+[PHENOTYPE-total serum IgE levels-18]	[GENOTYPE-major genes-7]
+S137 Identification of these molecular targets-5 provides insight into the pathogenic process-11 , diagnostic assays , and potential therapeutic agents .
+1
+[PHENOTYPE-pathogenic process-11]	[GENOTYPE-molecular targets-5]
+S140 The combined measurement of ZnT8A-5 , GADA-7 , IA2A-9 , and IAA-12 raised autoimmunity-14 detection rates to 98 % at disease onset , a level that approaches that needed to detect prediabetes in a general pediatric population .
+4
+[PHENOTYPE-autoimmunity-14]	[GENOTYPE-ZnT8A-5]
+[PHENOTYPE-autoimmunity-14]	[GENOTYPE-IAA-12]
+[PHENOTYPE-autoimmunity-14]	[GENOTYPE-GADA-7]
+[PHENOTYPE-autoimmunity-14]	[GENOTYPE-IA2A-9]
+S143 Using the family - based association test ( FBAT ) program and its haplotype-14 ( HBAT ) and phenotype ( PBAT ) options , we tested each polymorphism and haplotype-30 for association with asthma and asthma - related phenotypes-39 .
+2
+[PHENOTYPE-asthma - related phenotypes-39]	[GENOTYPE-haplotype-14]
+[PHENOTYPE-asthma - related phenotypes-39]	[GENOTYPE-haplotype-30]
+S147 We have used a mouse model for asthma to determine the effect of PI3K inhibitors and PTEN-17 on allergen - induced bronchial inflammation-23 and airway hyperresponsiveness .
+1
+[PHENOTYPE-allergen - induced bronchial inflammation-23]	[GENOTYPE-PTEN-17]
+S153 However , we cannot yet exclude a primary role for DQA1-11 or for other polymorphisms that affect DRB1 function or expression-21 .
+1
+[PHENOTYPE-DRB1 function or expression-21]	[GENOTYPE-DQA1-11]
+S155 This region of 15q21-4 also harbors the gene for SPPL2A-10 ( signal peptide peptidase like 2a-16 ) which activates tumor necrosis factor alpha-23 by cleavage , triggering the expression of IL12-31 in human dendritic cells .
+4
+[PHENOTYPE-expression of IL12-31]	[GENOTYPE-SPPL2A-10]
+[PHENOTYPE-expression of IL12-31]	[GENOTYPE-tumor necrosis factor alpha-23]
+[PHENOTYPE-expression of IL12-31]	[GENOTYPE-signal peptide peptidase like 2a-16]
+[PHENOTYPE-expression of IL12-31]	[GENOTYPE-15q21-4]
+S156 The Intestinal T Cell Response-5 to α - Gliadin in Adult Celiac Disease Is Focused on a Single Deamidated Glutamine-20 Targeted by Tissue transglutaminase .
+2
+[PHENOTYPE-Intestinal T Cell Response-5]	[GENOTYPE-Tissue transglutaminase]
+[PHENOTYPE-Intestinal T Cell Response-5]	[GENOTYPE-Single Deamidated Glutamine-20]
+S158 Interestingly , tissue transglutaminase ( tTG ) - mediated deamidation-10 of gliadin-12 plays an important role in recognition of this food antigen-22 by intestinal T cells .
+1
+[PHENOTYPE-recognition of this food antigen-22]	[GENOTYPE-gliadin-12]
+S159 Here we have used recombinant antigens-6 to demonstrate that the intestinal T cell response to α - gliadin-18 in adult CD is focused on two immunodominant , DQ2 - restricted peptides-31 that overlap by a seven - residue fragment-39 of gliadin .
+1
+[PHENOTYPE-intestinal T cell response to α - gliadin-18]	[GENOTYPE-immunodominant , DQ2 - restricted peptides-31]
+S162 These results suggest modifications of anchor residues-7 that lead to an improved affinity for major histocompatibility complex-17 ( MHC-19 ) , and altered conformation of the peptide –MHC complex-29 may be a critical factor leading to T cell responses to gliadin-41 and the oral intolerance of gluten-47 found in CD .
+4
+[PHENOTYPE-oral intolerance of gluten-47]	[GENOTYPE-peptide –MHC complex-29]
+[PHENOTYPE-T cell responses to gliadin-41]	[GENOTYPE-peptide –MHC complex-29]
+[PHENOTYPE-modifications of anchor residues-7]	[GENOTYPE-major histocompatibility complex-17]
+[PHENOTYPE-modifications of anchor residues-7]	[GENOTYPE-MHC-19]
+S163 We analyzed the entire protein - coding sequence of this gene by reverse - transcription PCR , SSCP , and DNA-21 sequencing in five patients with different clinical expression of X - ALD and in their female relatives ; these clinical expressions were cerebral childhood ALD , adrenomyeloneuropathy ( AMN ) , and " Addison disease only " ( ADO ) phenotype .
+1
+[PHENOTYPE-" Addison disease only " ( ADO ) phenotype]	[GENOTYPE-protein - coding sequence]
+S166 The disruptive nature of two mutations ( i . e . , the frameshift and the nonsense mutation ) in patients with biochemically proved childhood ALD and AMN further strongly supports the hypothesis that alterations in this gene-38 play a crucial role in the pathogenesis of X - ALD-49 .
+1
+[PHENOTYPE-pathogenesis of X - ALD-49]	[GENOTYPE-gene-38]
+S174 Our results indicate that lupus patients have circulating anti - NMDAR Abs-12 capable of causing neuronal damage-17 and memory deficit-20 , if they breach the BBB , and that the Abs-31 exist within patients ' brains .
+2
+[PHENOTYPE-neuronal damage-17]	[GENOTYPE-anti - NMDAR Abs-12]
+[PHENOTYPE-memory deficit-20]	[GENOTYPE-anti - NMDAR Abs-12]
+S179 In an application to asthma case - control data from the Children ’s Health Study , FITF identified a significant multilocus effect-22 between the nicotinamide adenine dinucleotide ( phosphate ) reduced : quinone oxidoreductase gene-35 ( NQO1-37 ) , myeloperoxidase gene-41 ( MPO-43 ) , and catalase gene-48 ( CAT-50 ) ( unadjusted P = . 00026 ) , three genes that-62 are involved in the oxidative stress pathway-69 .
+6
+[PHENOTYPE-oxidative stress pathway-69]	[GENOTYPE-nicotinamide adenine dinucleotide ( phosphate ) reduced : quinone oxidoreductase gene-35]
+[PHENOTYPE-oxidative stress pathway-69]	[GENOTYPE-catalase gene-48]
+[PHENOTYPE-oxidative stress pathway-69]	[GENOTYPE-CAT-50]
+[PHENOTYPE-oxidative stress pathway-69]	[GENOTYPE-MPO-43]
+[PHENOTYPE-oxidative stress pathway-69]	[GENOTYPE-NQO1-37]
+[PHENOTYPE-oxidative stress pathway-69]	[GENOTYPE-myeloperoxidase gene-41]
+S182 Several quantitative traits-3 associated with the asthma phenotype-8 have been linked to markers-13 on chromosome 11q13-16 , although the gene-20 responsible has yet to be well established .
+6
+[PHENOTYPE-asthma phenotype-8]	[GENOTYPE-markers-13]
+[PHENOTYPE-quantitative traits-3]	[GENOTYPE-gene-20]
+[PHENOTYPE-quantitative traits-3]	[GENOTYPE-markers-13]
+[PHENOTYPE-asthma phenotype-8]	[GENOTYPE-chromosome 11q13-16]
+[PHENOTYPE-asthma phenotype-8]	[GENOTYPE-gene-20]
+[PHENOTYPE-quantitative traits-3]	[GENOTYPE-chromosome 11q13-16]
+S183 The gene-2 for Clara cell secretory protein-7 ( CC16-9 ) is an ideal candidate for involvement in an inherited predisposition to asthma because of its chromosomal location , the role of the CC16 protein-34 in controlling airway inflammation-38 , and differences in levels of the protein between asthmatics and healthy controls .
+4
+[PHENOTYPE-airway inflammation-38]	[GENOTYPE-CC16-9]
+[PHENOTYPE-airway inflammation-38]	[GENOTYPE-Clara cell secretory protein-7]
+[PHENOTYPE-airway inflammation-38]	[GENOTYPE-gene-2]
+[PHENOTYPE-airway inflammation-38]	[GENOTYPE-CC16 protein-34]
+S185 Autoantibodies-1 directed against citrulline - containing proteins-7 have an impressive specificity of nearly 100 % in patients with rheumatoid arthritis and have been suggested to be involved in the disease pathogenesis-31 .
+1
+[PHENOTYPE-disease pathogenesis-31]	[GENOTYPE-Autoantibodies-1]
+S186 The targeted epitopes-3 are generated by a post - translational modification-11 catalysed by the calcium - dependent enzyme peptidyl arginine deiminase-21 ( PAD-23 ) , which converts positively charged arginine-30 to polar but uncharged citrulline-35 .
+2
+[PHENOTYPE-post - translational modification-11]	[GENOTYPE-calcium - dependent enzyme peptidyl arginine deiminase-21]
+[PHENOTYPE-post - translational modification-11]	[GENOTYPE-PAD-23]
+S187 The aim of this study was to explore the effects of citrullination-12 on the immunogenicity of autoantigens-17 as well as on potential arthritogenicity .
+1
+[PHENOTYPE-citrullination-12]	[GENOTYPE-autoantigens-17]
+S189 Our results demonstrate that citrullination of the endogenous antigen-9 RSA-10 broke immunological tolerance-13 , as was evident by the generation of antibodies directed against the modified protein and cross - reacting with the native protein .
+2
+[PHENOTYPE-immunological tolerance-13]	[GENOTYPE-endogenous antigen-9]
+[PHENOTYPE-immunological tolerance-13]	[GENOTYPE-RSA-10]
+S190 In conclusion , our data reveal the potency of citrullination-10 to break tolerance against the self antigen RSA-18 and to increase the arthritogenic properties of the cartilage antigen CII-29 .
+2
+[PHENOTYPE-tolerance against the self antigen RSA-18]	[GENOTYPE-cartilage antigen CII-29]
+[PHENOTYPE-citrullination-10]	[GENOTYPE-cartilage antigen CII-29]
+S197 We performed linkage and association analyses by transmission / disequilibrium test and case - control analysis in the candidate region-20 12q13 - 24-23 , using the Sardinian founder population , in which limited heterogeneity of pathogenetic alleles-37 for monogenic and complex disorders as well as of environmental conditions should facilitate the study of multifactorial traits-55 .
+2
+[PHENOTYPE-multifactorial traits-55]	[GENOTYPE-12q13 - 24-23]
+[PHENOTYPE-multifactorial traits-55]	[GENOTYPE-candidate region-20]
+S200 IRAK - M-3 , a negative regulator of the Toll - like receptor / IL - 1R pathways , is a master regulator of NF - κB-27 and inflammation-29 .
+1
+[PHENOTYPE-inflammation-29]	[GENOTYPE-IRAK - M-3]
+S202 The Ala893 variant-3 has decreased activity compared with the 893Ser variant-11 ; therefore , the association with human IBD is consistent with the murine model of mdr1 deficiency-28 .
+0
+M81 common esr1 gene alleles are unlikely to contribute to obesity in women , whereas a minor importance of esr2 on severe obesity cannot be excluded .
+2
+[PHENOTYPE-obesity]	[GENOTYPE-esr2]
+[PHENOTYPE-obesity]	[GENOTYPE-esr2]
+M86 introduction canine atopic dermatitis is a genetically - predisposed inflammatory and pruritic allergic skin disease , most commonly associated with ige antibodies to environmental allergens [ 1 ] .
+1
+[PHENOTYPE-atopic dermatitis]	[GENOTYPE-ige antibodies]
+M121 a plethora of circumstantial evidence implicates downregulation of the cyclin - dependent kinase inhibitor p27 in prostate cancer .
+2
+[PHENOTYPE-prostate cancer]	[GENOTYPE-cyclin - dependent kinase]
+[PHENOTYPE-prostate cancer]	[GENOTYPE-p27]
+M129 while our study suggests that skp2 is an important player in p27 regulation in prostate cancer cells , recent studies have also implicated another protein , cop9 / signalosome5 / jab1 , in p27 regulation .
+6
+[PHENOTYPE-prostate cancer]	[GENOTYPE-jab1]
+[PHENOTYPE-prostate cancer]	[GENOTYPE-p27]
+[PHENOTYPE-prostate cancer]	[GENOTYPE-cop9]
+[PHENOTYPE-prostate cancer]	[GENOTYPE-skp2]
+[PHENOTYPE-prostate cancer]	[GENOTYPE-p27]
+[PHENOTYPE-prostate cancer]	[GENOTYPE-signalosome5]
+M130 notably , like skp2 , cop9 / signalosome5 was found to be overexpressed in cancers devoid of p27 .
+3
+[PHENOTYPE-cancers]	[GENOTYPE-cop9 / signalosome5]
+[PHENOTYPE-cancers]	[GENOTYPE-p27]
+[PHENOTYPE-cancers]	[GENOTYPE-skp2]
+M131 we propose that frequent p27 downregulation in prostate cancer may be caused by skp2 overexpression thus enabling escape from normal androgen control .
+2
+[PHENOTYPE-prostate cancer]	[GENOTYPE-skp2]
+[PHENOTYPE-prostate cancer]	[GENOTYPE-p27]
+M132 finally , our in vitro studies validate the skp2 pathway as a potential target for therapeutic intervention in cancers devoid of p27 .
+2
+[PHENOTYPE-cancers]	[GENOTYPE-p27]
+[PHENOTYPE-cancers]	[GENOTYPE-skp2]
+M180 mutational analysis of tropomodulin 2 for amyotrophic lateral sclerosis 5 and tropomodulin 4 for limb girdle muscular dystrophy 1b the coding exons of tropomodulin 2 and tropomodulin 4 were amplified from patient lymphoblast genomic dna using primers flanking the exon ( table 2 ) .
+2
+[PHENOTYPE-amyotrophic lateral sclerosis]	[GENOTYPE-tropomodulin 2]
+[PHENOTYPE-amyotrophic lateral sclerosis]	[GENOTYPE-tropomodulin 2]
+M184 that the other members of the dystrophin - glycoprotein complex , besides dystrophin , play a role in the duchenne muscular dystrophy pathology , is demonstrated by the fact that primary abnormalities in sarcoglycans and laminin are responsible for certain forms of limb - girdle muscular dystrophy and congenital muscular dystrophy , respectively [ , ] .
+5
+[PHENOTYPE-muscular dystrophy]	[GENOTYPE-dystrophin - glycoprotein]
+[PHENOTYPE-congenital muscular dystrophy]	[GENOTYPE-laminin]
+[PHENOTYPE-congenital muscular dystrophy]	[GENOTYPE-dystrophin - glycoprotein]
+[PHENOTYPE-muscular dystrophy]	[GENOTYPE-laminin]
+[PHENOTYPE-limb - girdle muscular dystrophy]	[GENOTYPE-dystrophin - glycoprotein]
+M193 nma , encoding a putative transmembrane protein , is expressed at low levels in metastatic human melanoma cell lines and xenografts , and is completely absent in highly metastatic human melanoma cell lines .
+2
+[PHENOTYPE-melanoma]	[GENOTYPE-nma]
+[PHENOTYPE-melanoma]	[GENOTYPE-nma]
+M198 insulin resistance and the metabolic syndrome lead to defective insulin - mediated inhibition of lipolysis , mostly in visceral fat , while hyperinsulinemia results in increased hepatic synthesis of free fatty acids and decreased synthesis of apolipoprotein b - 100 .
+3
+[PHENOTYPE-hyperinsulinemia]	[GENOTYPE-apolipoprotein b - 100]
+[PHENOTYPE-hyperinsulinemia]	[GENOTYPE-insulin resistance]
+[PHENOTYPE-hyperinsulinemia]	[GENOTYPE-insulin]
+M241 human pancreatic cancers overexpress a number of important tyrosine kinase growth factor receptors and their ligands , such as those belonging to the epidermal growth factor , fibroblast growth factor , insulin - like growth factor ( igf - 1 ) , and vascular endothelial growth factor families .
+6
+[PHENOTYPE-pancreatic cancers]	[GENOTYPE-igf - 1]
+[PHENOTYPE-pancreatic cancers]	[GENOTYPE-fibroblast growth factor]
+[PHENOTYPE-pancreatic cancers]	[GENOTYPE-tyrosine kinase growth factor receptors]
+[PHENOTYPE-pancreatic cancers]	[GENOTYPE-vascular endothelial growth factor]
+[PHENOTYPE-pancreatic cancers]	[GENOTYPE-epidermal growth factor]
+[PHENOTYPE-pancreatic cancers]	[GENOTYPE-insulin - like growth factor]
+M250 the sti571 target c - kit and its ligand stem cell factor have been shown to be expressed in pancreatic cancer cells .
+2
+[PHENOTYPE-pancreatic cancer]	[GENOTYPE-stem cell factor]
+[PHENOTYPE-pancreatic cancer]	[GENOTYPE-sti571 target c - kit]
+M255 for example , it has been reported that the mrna levels of epidermal growth factor and epidermal growth factorr are markedly increased in pancreatic cancer tissues in comparison with the normal pancreas , suggesting that the coexpression of epidermal growth factorr and its ligands may contribute to the aggressiveness of human pancreatic cancer .
+8
+[PHENOTYPE-pancreatic cancer]	[GENOTYPE-epidermal growth factorr]
+[PHENOTYPE-pancreatic cancer]	[GENOTYPE-epidermal growth factorr]
+[PHENOTYPE-aggressiveness]	[GENOTYPE-epidermal growth factorr]
+[PHENOTYPE-pancreatic cancer]	[GENOTYPE-epidermal growth factorr]
+[PHENOTYPE-pancreatic cancer]	[GENOTYPE-epidermal growth factor]
+[PHENOTYPE-pancreatic cancer]	[GENOTYPE-epidermal growth factorr]
+[PHENOTYPE-aggressiveness]	[GENOTYPE-epidermal growth factorr]
+[PHENOTYPE-pancreatic cancer]	[GENOTYPE-epidermal growth factor]
+M347 in fact , the finding of abnormal glucose homeostasis in the knockout mice for fem1b gene , the identification of a germline missense mutation in fem1a gene in a polycystic ovary syndrome patient and the observation of fem1a being downregulated in human rhabdomyosarcoma cell lines , support this hypothesis [ 8 , 9 , 39 ] .
+5
+[PHENOTYPE-abnormal glucose homeostasis]	[GENOTYPE-fem1b gene]
+[PHENOTYPE-rhabdomyosarcoma]	[GENOTYPE-fem1a gene]
+[PHENOTYPE-polycystic ovary]	[GENOTYPE-fem1a]
+[PHENOTYPE-polycystic ovary]	[GENOTYPE-fem1a gene]
+[PHENOTYPE-rhabdomyosarcoma]	[GENOTYPE-fem1a]
+M355 haplotype association analysis of calpain 5 gene gene with impaired glucose tolerance using thesias software .
+1
+[PHENOTYPE-impaired glucose tolerance]	[GENOTYPE-calpain 5 gene gene]
+M393 muscle - specific tyrosine kinase initiates aggregation of acetylcholine receptors at the muscle endplate during development , [ 2 ] but the function of muscle - specific tyrosine kinase in mature skeletal muscle and the pathophysiology of myasthenia gravis related to muscle - specific tyrosine kinase antibodies are currently unknown .
+1
+[PHENOTYPE-myasthenia]	[GENOTYPE-tyrosine kinase antibodies]
+M409 the most salient side effects of acetylcholinesterase inhibitors relate to increased muscarinic activity and include nausea , vomiting , abdominal cramping , diarrhea , diaphoresis , and increased lacrimation , salivation , and bronchial secretions .
+0
+M422 issues pertaining to muscle - specific tyrosine kinase myasthenia gravis include determining the pathophysiologic role of muscle - specific tyrosine kinase antibodies in the development of myasthenia gravis , whether the immunological attack on the endplate region in muscle - specific tyrosine kinase myasthenia gravis is similar to that of seropositive myasthenia gravis , and whether thymectomy benefits patients with muscle - specific tyrosine kinase myasthenia gravis .
+5
+[PHENOTYPE-myasthenia]	[GENOTYPE-tyrosine kinase antibodies]
+[PHENOTYPE-myasthenia]	[GENOTYPE-tyrosine kinase antibodies]
+[PHENOTYPE-myasthenia]	[GENOTYPE-tyrosine kinase antibodies]
+[PHENOTYPE-myasthenia]	[GENOTYPE-tyrosine kinase antibodies]
+[PHENOTYPE-myasthenia]	[GENOTYPE-tyrosine kinase antibodies]
+M440 a possible explanation for the lack of definitive morphological markers for basal cell naevus syndrome odontogenic keratocysts may relate to their aetiology : it has been observed that genetic abnormalities ( mutations and loss of heterozygosity ) of common tumour suppressor genes , including the drosophila - homologous patched gene are associated with the basal cell naevus syndrome ( as well as some other epithelial tumours , such as basal cell carcinomas ) .
+3
+[PHENOTYPE-basal cell carcinomas]	[GENOTYPE-drosophila - homologous patched gene]
+[PHENOTYPE-naevus]	[GENOTYPE-drosophila - homologous patched gene]
+[PHENOTYPE-naevus]	[GENOTYPE-drosophila - homologous patched gene]
+
