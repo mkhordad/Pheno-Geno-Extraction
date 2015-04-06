@@ -1,0 +1,303 @@
+S1 Previous analysis of data from 92 families , ascertained through a parent with asthma , showed evidence for recessive inheritance-20 of high IgE levels-24 with linkage to chromosome 5q-29 .
+2
+[PHENOTYPE-high IgE levels-24]	[GENOTYPE-chromosome 5q-29]
+[PHENOTYPE-recessive inheritance-20]	[GENOTYPE-chromosome 5q-29]
+S4 For type 1 diabetes it is clear that multiple islet molecules-11 are the target of autoimmunity-16 in man and animal models 1 , 2 .
+1
+[PHENOTYPE-autoimmunity-16]	[GENOTYPE-multiple islet molecules-11]
+S5 It is not clear whether any of the target molecules-10 are essential for the destruction of islet beta cells-19 .
+0
+S6 Here we show that the proinsulin / insulin molecules-9 have a sequence that is a primary target of the autoimmunity-20 that causes diabetes of the non - obese diabetic ( NOD ) mouse .
+1
+[PHENOTYPE-autoimmunity-20]	[GENOTYPE-proinsulin / insulin molecules-9]
+S9 The adipocyte fatty acid –binding protein-6 aP2-7 is required in allergic airway airway-13
+2
+[PHENOTYPE-allergic airway airway-13]	[GENOTYPE-aP2-7]
+[PHENOTYPE-allergic airway airway-13]	[GENOTYPE-adipocyte fatty acid –binding protein-6]
+S10 The adipocyte fatty acid –binding protein-6 aP2-7 regulates systemic glucose-10 and lipid metabolism-13 .
+4
+[PHENOTYPE-lipid metabolism-13]	[GENOTYPE-aP2-7]
+[PHENOTYPE-systemic glucose-10]	[GENOTYPE-adipocyte fatty acid –binding protein-6]
+[PHENOTYPE-systemic glucose-10]	[GENOTYPE-aP2-7]
+[PHENOTYPE-lipid metabolism-13]	[GENOTYPE-adipocyte fatty acid –binding protein-6]
+S11 We report that aP2-4 , in addition to being abundantly expressed by adipocytes , is also expressed by human airway epithelial cells and shows a striking upregulation-27 following stimulation of epithelial cells with the Th2 cytokines-36 IL - 4-39 and IL - 13-43 .
+4
+[PHENOTYPE-striking upregulation-27]	[GENOTYPE-aP2-4]
+[PHENOTYPE-striking upregulation-27]	[GENOTYPE-IL - 4-39]
+[PHENOTYPE-striking upregulation-27]	[GENOTYPE-IL - 13-43]
+[PHENOTYPE-striking upregulation-27]	[GENOTYPE-Th2 cytokines-36]
+S12 Regulation of aP2 mRNA expression-5 by Th2 cytokines-8 was highly dependent on STAT6-13 , a transcription factor-17 with a major regulatory role in allergic inflammation-25 .
+6
+[PHENOTYPE-allergic inflammation-25]	[GENOTYPE-STAT6-13]
+[PHENOTYPE-Regulation of aP2 mRNA expression-5]	[GENOTYPE-transcription factor-17]
+[PHENOTYPE-allergic inflammation-25]	[GENOTYPE-transcription factor-17]
+[PHENOTYPE-Regulation of aP2 mRNA expression-5]	[GENOTYPE-STAT6-13]
+[PHENOTYPE-Regulation of aP2 mRNA expression-5]	[GENOTYPE-Th2 cytokines-8]
+[PHENOTYPE-allergic inflammation-25]	[GENOTYPE-Th2 cytokines-8]
+S14 T cell priming-3 was unaffected by aP2 deficiency-8 , suggesting that aP2-12 was acting locally within the lung , and analysis of bone marrow chimeras implicated non - hematopoietic cells , most likely bronchial epithelial cells , as the site of action of aP2-44 in allergic airway inflammation-48 .
+2
+[PHENOTYPE-allergic airway inflammation-48]	[GENOTYPE-aP2-44]
+[PHENOTYPE-allergic airway inflammation-48]	[GENOTYPE-aP2-12]
+S22 Here we report the association of RA susceptibility-8 with the minor allele-12 of a missense SNP in PTPN22-18 ( discovery - study allelic P = 6 . 6 ×10 - 4 ; replication - study allelic P = 5 . 6 ×10 - 8 ) , which encodes a hematopoietic - specific protein tyrosine phosphatase-55 also known as “Lyp”-59 .
+4
+[PHENOTYPE-RA susceptibility-8]	[GENOTYPE-hematopoietic - specific protein tyrosine phosphatase-55]
+[PHENOTYPE-RA susceptibility-8]	[GENOTYPE-PTPN22-18]
+[PHENOTYPE-RA susceptibility-8]	[GENOTYPE-minor allele-12]
+[PHENOTYPE-RA susceptibility-8]	[GENOTYPE-“Lyp”-59]
+S23 We show that the risk allele-6 , which is present in ∼17 % of white individuals from the general population and in ∼28 % of white individuals with RA , disrupts the P1 proline - rich motif-37 that is important for interaction with Csk-44 , potentially altering these proteins-49 ' normal function as negative regulators of T - cell activation-60 .
+3
+[PHENOTYPE-T - cell activation-60]	[GENOTYPE-risk allele-6]
+[PHENOTYPE-T - cell activation-60]	[GENOTYPE-Csk-44]
+[PHENOTYPE-T - cell activation-60]	[GENOTYPE-proteins-49]
+S24 IL - 23 is essential for T cell –mediated colitis and promotes inflammation-13 via IL - 17-17 and IL - --21
+2
+[PHENOTYPE-inflammation-13]	[GENOTYPE-IL - 17-17]
+[PHENOTYPE-inflammation-13]	[GENOTYPE-IL - --21]
+S25 In early clinical trials as well as in animal models , IL - 12-14 has been implicated as a major mediator of these diseases based on the ability of anti - p40 mAb treatment to reverse intestinal inflammation-38 .
+0
+S26 To determine how IL - 23-6 contributes to intestinal inflammation-10 , we studied the disease susceptibility in the absence of either IL - 23-24 or IL - 12-28 in this model , as well as the ability of recombinant IL - 23-42 to exacerbate IBD induced by T cell transfer-50 .
+6
+[PHENOTYPE-intestinal inflammation-10]	[GENOTYPE-IL - 23-24]
+[PHENOTYPE-intestinal inflammation-10]	[GENOTYPE-IL - 23-6]
+[PHENOTYPE-T cell transfer-50]	[GENOTYPE-IL - 23-24]
+[PHENOTYPE-T cell transfer-50]	[GENOTYPE-IL - 23-6]
+[PHENOTYPE-T cell transfer-50]	[GENOTYPE-IL - 23-42]
+[PHENOTYPE-intestinal inflammation-10]	[GENOTYPE-IL - 23-42]
+S27 Our study shows that in these models , IL - 23-11 is essential for manifestation of chronic intestinal inflammation-19 , whereas IL - 12-24 is not .
+1
+[PHENOTYPE-chronic intestinal inflammation-19]	[GENOTYPE-IL - 23-11]
+S28 Systemic lupus erythematosus - associated defects in the inhibitory receptor-10 FcγRIIb-11 reduce susceptibility to malaria.
+2
+[PHENOTYPE-susceptibility to malaria]	[GENOTYPE-inhibitory receptor-10]
+[PHENOTYPE-susceptibility to malaria]	[GENOTYPE-FcγRIIb-11]
+S30 In vitro , the human lupus associated FcγRIIb-8 polymorphism enhances phagocytosis of Plasmodium falciparum - infected erythrocytes-17 .
+1
+[PHENOTYPE-phagocytosis of Plasmodium falciparum - infected erythrocytes-17]	[GENOTYPE-FcγRIIb-8]
+S31 These results demonstrate that FcγRIIb-5 is important in controlling the immune response to malarial parasites-15 and suggests that the higher frequency of human FcγRIIb-24 polymorphisms predisposing to SLE in Asians and Africans may be maintained because these variants-38 reduce susceptibility to malaria-42 .
+2
+[PHENOTYPE-susceptibility to malaria-42]	[GENOTYPE-variants-38]
+[PHENOTYPE-immune response to malarial parasites-15]	[GENOTYPE-FcγRIIb-5]
+S34 Finally , 10 of the regions-6 showing evidence for linkage in the Hutterites have shown evidence of linkage to related phenotypes-21 in other genome screens , suggesting that these regions-30 may contain common alleles-34 that have relatively large effects on asthma and atopy phenotypes-44 in diverse populations .
+2
+[PHENOTYPE-related phenotypes-21]	[GENOTYPE-common alleles-34]
+[PHENOTYPE-asthma and atopy phenotypes-44]	[GENOTYPE-common alleles-34]
+S36 An increasing number of studies suggest the importance of antibodies-10 in the pathogenesis-13 of most systemic and organ - specific autoimmune diseases , although there is considerable controversy over the precise role of the autoantibodies-35 involved .
+2
+[PHENOTYPE-pathogenesis-13]	[GENOTYPE-autoantibodies-35]
+[PHENOTYPE-pathogenesis-13]	[GENOTYPE-antibodies-10]
+S39 Although BBS proteins-3 were not required for ciliogenesis-8 , their loss caused structural defects in a fraction of cilia covering mouse airway epithelia .
+0
+S43 The cytokines B lymphocyte stimulator-5 ( BLyS-7 ) and a proliferation - inducing ligand-14 ( APRIL-16 ) enhance autoimmune disease by sustaining B cell activation-25 .
+4
+[PHENOTYPE-B cell activation-25]	[GENOTYPE-B lymphocyte stimulator-5]
+[PHENOTYPE-B cell activation-25]	[GENOTYPE-BLyS-7]
+[PHENOTYPE-B cell activation-25]	[GENOTYPE-APRIL-16]
+[PHENOTYPE-B cell activation-25]	[GENOTYPE-a proliferation - inducing ligand-14]
+S49 A strong influence of non - MHC genes-8 was also suggested by the variability of arthritis susceptibility-17 among different strains with the same MHC haplotype-25 ; the most susceptible background was the DA and the least susceptible was the E3 .
+1
+[PHENOTYPE-arthritis susceptibility-17]	[GENOTYPE-non - MHC genes-8]
+S57 Subjects with the TLR5 stop codon-6 produced significantly lower levels of proinflammatory cytokines-13 in comparison with individuals with the wild - type genotype-23 .
+1
+[PHENOTYPE-significantly lower levels of proinflammatory cytokines-13]	[GENOTYPE-TLR5 stop codon-6]
+S60 Evidence of genetic involvement includes : associations with HLA - DR3-11 , HLA - DR2-15 , Fcγ receptors ( FcγR ) IIA and IIIA-24 , and hereditary complement component deficiencies-30 , as well as familial aggregation , monozygotic twin concordance > 20 % , λ s > 10 , purported linkage at 1q41 –42-54 , and inbred mouse strains that consistently develop lupus .
+3
+[PHENOTYPE-hereditary complement component deficiencies-30]	[GENOTYPE-Fcγ receptors ( FcγR ) IIA and IIIA-24]
+[PHENOTYPE-hereditary complement component deficiencies-30]	[GENOTYPE-HLA - DR2-15]
+[PHENOTYPE-hereditary complement component deficiencies-30]	[GENOTYPE-HLA - DR3-11]
+S61 Several of the regions-4 that showed evidence for nominal significance ( P < . 05 ) in our data set had previously been implicated in RA ( D16S516-28 and D17S1301-30 ) or in other diseases of an autoimmune nature , including systemic lupus erythematosus ( D1S235-46 ) , inflammatory bowel disease ( D4S1647-53 , D5S1462-55 , and D16S516-58 ) , multiple sclerosis ( D12S1052-64 ) , and ankylosing spondylitis ( D16S516-71 ) .
+6
+[PHENOTYPE-inflammatory bowel disease]	[GENOTYPE-D4S1647-53]
+[PHENOTYPE-multiple sclerosis]	[GENOTYPE-D12S1052-64]
+[PHENOTYPE-ankylosing spondylitis]	[GENOTYPE-D16S516-71]
+[PHENOTYPE-inflammatory bowel disease]	[GENOTYPE-D5S1462-55]
+[PHENOTYPE-systemic lupus erythematosus]	[GENOTYPE-D1S235-46]
+[PHENOTYPE-inflammatory bowel disease]	[GENOTYPE-D16S516-58]
+S63 We investigated the interactions between day care exposure in the 1st 6 month of life and genotypes for 72 polymorphisms at 45 candidate loci and their effects on cytokine response profiles-31 and on the development of atopic phenotypes-38 in the 1st year of life in the Childhood Onset of Asthma ( COAST ) cohort of children .
+2
+[PHENOTYPE-atopic phenotypes-38]	[GENOTYPE-72 polymorphisms]
+[PHENOTYPE-cytokine response profiles-31]	[GENOTYPE-72 polymorphisms]
+S65 Genome - wide linkage searches of autoimmune and inflammatory / immune disorders have identified a large number of non - major histocompatibility complex loci-24 that collectively contribute to disease susceptibility-30 .
+1
+[PHENOTYPE-disease susceptibility-30]	[GENOTYPE-non - major histocompatibility complex loci-24]
+S67 Despite failure to replicate the previous evidence for linkage on chromosome 12 , the results described herein indicate the need to further investigate the potential role of this locus in susceptibility to ulcerative colitis-34 .
+1
+[PHENOTYPE-susceptibility to ulcerative colitis-34]	[GENOTYPE-chromosome 12]
+S68 Among the glycoprotein hormone receptors , only the TSHR-9 undergoes intramolecular cleavage-12 into disulfide - linked subunits with consequent shedding-20 of some of the extracellular , autoantibody - binding A subunits-31 .
+2
+[PHENOTYPE-intramolecular cleavage-12]	[GENOTYPE-TSHR-9]
+[PHENOTYPE-shedding-20]	[GENOTYPE-TSHR-9]
+S70 SLE like syndrome and functional deficiency-6 of C1q-8 in members of a large family .
+0
+S73 Genetic linkage of familial granulomatous inflammatory arthritis , skin rash-10 , and uveitis to chromosome 16-16 .
+1
+[PHENOTYPE-skin rash-10]	[GENOTYPE-chromosome 16-16]
+S76 The best - fitting model of shared components of variance indicated that 8 % of the genetic component-18 of obesity-20 is shared with asthma .
+1
+[PHENOTYPE-obesity-20]	[GENOTYPE-genetic component-18]
+S79 To explore its role in human disease , we analyzed 1 , 416 individuals from 258 Caucasian and 142 Chinese lupus simplex families and demonstrated that a common three - single - nucleotide polymorphism CR2 haplotype-36 ( rs3813946 , rs1048971 , rs17615 ) was associated with lupus susceptibility-48 ( P = 0 . 00001 ) with a 1 . 54 - fold increased risk for the development of disease .
+1
+[PHENOTYPE-lupus susceptibility-48]	[GENOTYPE-three - single - nucleotide polymorphism CR2 haplotype-36]
+S85 Linkage of asthma and related phenotypes-6 to chromosome 6p21-9 has been reported in seven genome screens , making it the most replicated region-23 of the genome .
+1
+[PHENOTYPE-asthma and related phenotypes-6]	[GENOTYPE-chromosome 6p21-9]
+S87 Interindividual gene-2 copy - number variation ( CNV ) of complement component C4-13 and its associated polymorphisms in gene-19 size ( long and short ) and protein isotypes-28 ( C4A-30 and C4B-32 ) probably lead to different susceptibilities to autoimmune disease-41 .
+6
+[PHENOTYPE-susceptibilities to autoimmune disease-41]	[GENOTYPE-gene-2]
+[PHENOTYPE-susceptibilities to autoimmune disease-41]	[GENOTYPE-protein isotypes-28]
+[PHENOTYPE-susceptibilities to autoimmune disease-41]	[GENOTYPE-C4A-30]
+[PHENOTYPE-susceptibilities to autoimmune disease-41]	[GENOTYPE-gene-19]
+[PHENOTYPE-susceptibilities to autoimmune disease-41]	[GENOTYPE-C4B-32]
+[PHENOTYPE-susceptibilities to autoimmune disease-41]	[GENOTYPE-complement component C4-13]
+S88 The risk of SLE disease susceptibility-6 significantly increased among subjects with only two copies of total C4-17 ( patients 9 . 3 % ; unrelated controls 1 . 5 % ; odds ratio [ OR ] = 6 . 514 ; P = . 00002 ) but decreased in those with 5 copies of C4-55 ( patients 5 . 79 % ; controls 12 % ; OR = 0 . 466 ; P = . 016 ) .
+2
+[PHENOTYPE-SLE disease susceptibility-6]	[GENOTYPE-C4-55]
+[PHENOTYPE-SLE disease susceptibility-6]	[GENOTYPE-C4-17]
+S91 TYK2-1 binds to the type I IFN receptor complex-9 and IRF5-11 is a regulator of type I IFN gene expression-20 .
+1
+[PHENOTYPE-type I IFN gene expression-20]	[GENOTYPE-IRF5-11]
+S95 Furthermore , ICOS-3 regulates the in vitro and in vivo expression of IL - 17-15 , a proinflammatory cytokine implicated in rheumatoid arthritis .
+1
+[PHENOTYPE-expression of IL - 17-15]	[GENOTYPE-ICOS-3]
+S97 The 2p25 . 1 region-5 was detected for the FCHL trait-11 , and the 9p23-15 and 16q24 . 1 regions-20 were detected for the low high - density lipoprotein cholesterol ( HDL - C ) trait-36 .
+3
+[PHENOTYPE-low high - density lipoprotein cholesterol ( HDL - C ) trait-36]	[GENOTYPE-16q24 . 1 regions-20]
+[PHENOTYPE-low high - density lipoprotein cholesterol ( HDL - C ) trait-36]	[GENOTYPE-9p23-15]
+[PHENOTYPE-FCHL trait-11]	[GENOTYPE-2p25 . 1 region-5]
+S100 Apart from rare monogenic deficiencies-5 of complement factors-8 , where lupuslike disease may occur in association with other autoimmune diseases or high susceptibility to bacterial infections-26 , its etiology is multifactorial in nature .
+1
+[PHENOTYPE-high susceptibility to bacterial infections-26]	[GENOTYPE-complement factors-8]
+S103 Systemic lupus erythematosus ( SLE ) is an autoimmune disease characterized by a loss of immunologic tolerance-17 to a multitude of self - antigens-24 .
+0
+S104 Epidemiological data suggest an important role for genes in the etiology of lupus , and previous genetic studies have implicated the HLA locus-23 , complement genes-26 , and low - affinity IgG ( Fcγ ) receptors-36 in SLE pathogenesis-39 .
+3
+[PHENOTYPE-SLE pathogenesis-39]	[GENOTYPE-complement genes-26]
+[PHENOTYPE-SLE pathogenesis-39]	[GENOTYPE-low - affinity IgG ( Fcγ ) receptors-36]
+[PHENOTYPE-SLE pathogenesis-39]	[GENOTYPE-HLA locus-23]
+S105 The nuclear receptors DAX1-4 ( NR0B1-6 ) and steroidogenic factor - 1-12 ( SF1-14 / Ad4BP-16 , NR5A1-18 ) play an important role in adrenal development-26 and function , and mutations in these transcription factors have been found in patients with adrenal hypoplasia .
+6
+[PHENOTYPE-adrenal development-26]	[GENOTYPE-steroidogenic factor - 1-12]
+[PHENOTYPE-adrenal development-26]	[GENOTYPE-NR5A1-18]
+[PHENOTYPE-adrenal development-26]	[GENOTYPE-Ad4BP-16]
+[PHENOTYPE-adrenal development-26]	[GENOTYPE-DAX1-4]
+[PHENOTYPE-adrenal development-26]	[GENOTYPE-SF1-14]
+[PHENOTYPE-adrenal development-26]	[GENOTYPE-NR0B1-6]
+S106 SF1 mutations-2 causing adrenal failure were found only in two patients with 46 , XY gonadal dysgenesis-17 .
+1
+[PHENOTYPE-46 , XY gonadal dysgenesis-17]	[GENOTYPE-SF1 mutations-2]
+S107 Thus , this segment-4 of the genome represents a candidate region-11 for genes that determine susceptibility to bronchial hyperresponsiveness and atopy-21 in animal models .
+0
+S109 The expression of IL - 9-6 was markedly reduced in bronchial hyporesponsive mice , and the level of expression was determined by sequences within the qualitative trait locus-28 ( QTL-30 ) .
+0
+S114 In conclusion , a lower HBD - 2 gene-9 copy number in the beta - defensin locus predisposes to colonic CD , most likely through diminished beta - defensin expression-30 .
+1
+[PHENOTYPE-diminished beta - defensin expression-30]	[GENOTYPE-HBD - 2 gene-9]
+S121 Our original association study focused on the role of IBD5-10 in CD ; we next explored the potential contribution of this locus-22 to UC susceptibility-25 in 187 German trios .
+2
+[PHENOTYPE-UC susceptibility-25]	[GENOTYPE-locus-22]
+[PHENOTYPE-UC susceptibility-25]	[GENOTYPE-IBD5-10]
+S128 CARD15-1 conferred susceptibility to PsA-5 independent of HLA - Cw * 0602-12 .
+1
+[PHENOTYPE-susceptibility to PsA-5]	[GENOTYPE-CARD15-1]
+S134 These results suggest that several major genes-7 , plus residual genetic effects , regulate total serum IgE levels-18 .
+1
+[PHENOTYPE-total serum IgE levels-18]	[GENOTYPE-major genes-7]
+S137 Identification of these molecular targets-5 provides insight into the pathogenic process-11 , diagnostic assays , and potential therapeutic agents .
+1
+[PHENOTYPE-pathogenic process-11]	[GENOTYPE-molecular targets-5]
+S140 The combined measurement of ZnT8A-5 , GADA-7 , IA2A-9 , and IAA-12 raised autoimmunity-14 detection rates to 98 % at disease onset , a level that approaches that needed to detect prediabetes in a general pediatric population .
+4
+[PHENOTYPE-autoimmunity-14]	[GENOTYPE-ZnT8A-5]
+[PHENOTYPE-autoimmunity-14]	[GENOTYPE-IAA-12]
+[PHENOTYPE-autoimmunity-14]	[GENOTYPE-GADA-7]
+[PHENOTYPE-autoimmunity-14]	[GENOTYPE-IA2A-9]
+S143 Using the family - based association test ( FBAT ) program and its haplotype-14 ( HBAT ) and phenotype ( PBAT ) options , we tested each polymorphism and haplotype-30 for association with asthma and asthma - related phenotypes-39 .
+2
+[PHENOTYPE-asthma - related phenotypes-39]	[GENOTYPE-haplotype-14]
+[PHENOTYPE-asthma - related phenotypes-39]	[GENOTYPE-haplotype-30]
+S147 We have used a mouse model for asthma to determine the effect of PI3K inhibitors and PTEN-17 on allergen - induced bronchial inflammation-23 and airway hyperresponsiveness .
+1
+[PHENOTYPE-allergen - induced bronchial inflammation-23]	[GENOTYPE-PTEN-17]
+S153 However , we cannot yet exclude a primary role for DQA1-11 or for other polymorphisms that affect DRB1 function or expression-21 .
+1
+[PHENOTYPE-DRB1 function or expression-21]	[GENOTYPE-DQA1-11]
+S155 This region of 15q21-4 also harbors the gene for SPPL2A-10 ( signal peptide peptidase like 2a-16 ) which activates tumor necrosis factor alpha-23 by cleavage , triggering the expression of IL12-31 in human dendritic cells .
+4
+[PHENOTYPE-expression of IL12-31]	[GENOTYPE-SPPL2A-10]
+[PHENOTYPE-expression of IL12-31]	[GENOTYPE-tumor necrosis factor alpha-23]
+[PHENOTYPE-expression of IL12-31]	[GENOTYPE-signal peptide peptidase like 2a-16]
+[PHENOTYPE-expression of IL12-31]	[GENOTYPE-15q21-4]
+S156 The Intestinal T Cell Response-5 to α - Gliadin in Adult Celiac Disease Is Focused on a Single Deamidated Glutamine-20 Targeted by Tissue transglutaminase .
+2
+[PHENOTYPE-Intestinal T Cell Response-5]	[GENOTYPE-Tissue transglutaminase]
+[PHENOTYPE-Intestinal T Cell Response-5]	[GENOTYPE-Single Deamidated Glutamine-20]
+S158 Interestingly , tissue transglutaminase ( tTG ) - mediated deamidation-10 of gliadin-12 plays an important role in recognition of this food antigen-22 by intestinal T cells .
+1
+[PHENOTYPE-recognition of this food antigen-22]	[GENOTYPE-gliadin-12]
+S159 Here we have used recombinant antigens-6 to demonstrate that the intestinal T cell response to α - gliadin-18 in adult CD is focused on two immunodominant , DQ2 - restricted peptides-31 that overlap by a seven - residue fragment-39 of gliadin .
+1
+[PHENOTYPE-intestinal T cell response to α - gliadin-18]	[GENOTYPE-immunodominant , DQ2 - restricted peptides-31]
+S162 These results suggest modifications of anchor residues-7 that lead to an improved affinity for major histocompatibility complex-17 ( MHC-19 ) , and altered conformation of the peptide –MHC complex-29 may be a critical factor leading to T cell responses to gliadin-41 and the oral intolerance of gluten-47 found in CD .
+4
+[PHENOTYPE-oral intolerance of gluten-47]	[GENOTYPE-peptide –MHC complex-29]
+[PHENOTYPE-T cell responses to gliadin-41]	[GENOTYPE-peptide –MHC complex-29]
+[PHENOTYPE-modifications of anchor residues-7]	[GENOTYPE-major histocompatibility complex-17]
+[PHENOTYPE-modifications of anchor residues-7]	[GENOTYPE-MHC-19]
+S163 We analyzed the entire protein - coding sequence of this gene by reverse - transcription PCR , SSCP , and DNA-21 sequencing in five patients with different clinical expression of X - ALD and in their female relatives ; these clinical expressions were cerebral childhood ALD , adrenomyeloneuropathy ( AMN ) , and " Addison disease only " ( ADO ) phenotype .
+1
+[PHENOTYPE-" Addison disease only " ( ADO ) phenotype]	[GENOTYPE-protein - coding sequence]
+S166 The disruptive nature of two mutations ( i . e . , the frameshift and the nonsense mutation ) in patients with biochemically proved childhood ALD and AMN further strongly supports the hypothesis that alterations in this gene-38 play a crucial role in the pathogenesis of X - ALD-49 .
+1
+[PHENOTYPE-pathogenesis of X - ALD-49]	[GENOTYPE-gene-38]
+S174 Our results indicate that lupus patients have circulating anti - NMDAR Abs-12 capable of causing neuronal damage-17 and memory deficit-20 , if they breach the BBB , and that the Abs-31 exist within patients ' brains .
+2
+[PHENOTYPE-neuronal damage-17]	[GENOTYPE-anti - NMDAR Abs-12]
+[PHENOTYPE-memory deficit-20]	[GENOTYPE-anti - NMDAR Abs-12]
+S179 In an application to asthma case - control data from the Children ’s Health Study , FITF identified a significant multilocus effect-22 between the nicotinamide adenine dinucleotide ( phosphate ) reduced : quinone oxidoreductase gene-35 ( NQO1-37 ) , myeloperoxidase gene-41 ( MPO-43 ) , and catalase gene-48 ( CAT-50 ) ( unadjusted P = . 00026 ) , three genes that-62 are involved in the oxidative stress pathway-69 .
+6
+[PHENOTYPE-oxidative stress pathway-69]	[GENOTYPE-nicotinamide adenine dinucleotide ( phosphate ) reduced : quinone oxidoreductase gene-35]
+[PHENOTYPE-oxidative stress pathway-69]	[GENOTYPE-catalase gene-48]
+[PHENOTYPE-oxidative stress pathway-69]	[GENOTYPE-CAT-50]
+[PHENOTYPE-oxidative stress pathway-69]	[GENOTYPE-MPO-43]
+[PHENOTYPE-oxidative stress pathway-69]	[GENOTYPE-NQO1-37]
+[PHENOTYPE-oxidative stress pathway-69]	[GENOTYPE-myeloperoxidase gene-41]
+S182 Several quantitative traits-3 associated with the asthma phenotype-8 have been linked to markers-13 on chromosome 11q13-16 , although the gene-20 responsible has yet to be well established .
+6
+[PHENOTYPE-asthma phenotype-8]	[GENOTYPE-markers-13]
+[PHENOTYPE-quantitative traits-3]	[GENOTYPE-gene-20]
+[PHENOTYPE-quantitative traits-3]	[GENOTYPE-markers-13]
+[PHENOTYPE-asthma phenotype-8]	[GENOTYPE-chromosome 11q13-16]
+[PHENOTYPE-asthma phenotype-8]	[GENOTYPE-gene-20]
+[PHENOTYPE-quantitative traits-3]	[GENOTYPE-chromosome 11q13-16]
+S183 The gene-2 for Clara cell secretory protein-7 ( CC16-9 ) is an ideal candidate for involvement in an inherited predisposition to asthma because of its chromosomal location , the role of the CC16 protein-34 in controlling airway inflammation-38 , and differences in levels of the protein between asthmatics and healthy controls .
+4
+[PHENOTYPE-airway inflammation-38]	[GENOTYPE-CC16-9]
+[PHENOTYPE-airway inflammation-38]	[GENOTYPE-Clara cell secretory protein-7]
+[PHENOTYPE-airway inflammation-38]	[GENOTYPE-gene-2]
+[PHENOTYPE-airway inflammation-38]	[GENOTYPE-CC16 protein-34]
+S185 Autoantibodies-1 directed against citrulline - containing proteins-7 have an impressive specificity of nearly 100 % in patients with rheumatoid arthritis and have been suggested to be involved in the disease pathogenesis-31 .
+1
+[PHENOTYPE-disease pathogenesis-31]	[GENOTYPE-Autoantibodies-1]
+S186 The targeted epitopes-3 are generated by a post - translational modification-11 catalysed by the calcium - dependent enzyme peptidyl arginine deiminase-21 ( PAD-23 ) , which converts positively charged arginine-30 to polar but uncharged citrulline-35 .
+2
+[PHENOTYPE-post - translational modification-11]	[GENOTYPE-calcium - dependent enzyme peptidyl arginine deiminase-21]
+[PHENOTYPE-post - translational modification-11]	[GENOTYPE-PAD-23]
+S187 The aim of this study was to explore the effects of citrullination-12 on the immunogenicity of autoantigens-17 as well as on potential arthritogenicity .
+1
+[PHENOTYPE-citrullination-12]	[GENOTYPE-autoantigens-17]
+S189 Our results demonstrate that citrullination of the endogenous antigen-9 RSA-10 broke immunological tolerance-13 , as was evident by the generation of antibodies directed against the modified protein and cross - reacting with the native protein .
+2
+[PHENOTYPE-immunological tolerance-13]	[GENOTYPE-endogenous antigen-9]
+[PHENOTYPE-immunological tolerance-13]	[GENOTYPE-RSA-10]
+S190 In conclusion , our data reveal the potency of citrullination-10 to break tolerance against the self antigen RSA-18 and to increase the arthritogenic properties of the cartilage antigen CII-29 .
+2
+[PHENOTYPE-tolerance against the self antigen RSA-18]	[GENOTYPE-cartilage antigen CII-29]
+[PHENOTYPE-citrullination-10]	[GENOTYPE-cartilage antigen CII-29]
+S197 We performed linkage and association analyses by transmission / disequilibrium test and case - control analysis in the candidate region-20 12q13 - 24-23 , using the Sardinian founder population , in which limited heterogeneity of pathogenetic alleles-37 for monogenic and complex disorders as well as of environmental conditions should facilitate the study of multifactorial traits-55 .
+2
+[PHENOTYPE-multifactorial traits-55]	[GENOTYPE-12q13 - 24-23]
+[PHENOTYPE-multifactorial traits-55]	[GENOTYPE-candidate region-20]
+S200 IRAK - M-3 , a negative regulator of the Toll - like receptor / IL - 1R pathways , is a master regulator of NF - κB-27 and inflammation-29 .
+1
+[PHENOTYPE-inflammation-29]	[GENOTYPE-IRAK - M-3]
+S202 The Ala893 variant-3 has decreased activity compared with the 893Ser variant-11 ; therefore , the association with human IBD is consistent with the murine model of mdr1 deficiency-28 .
+0
